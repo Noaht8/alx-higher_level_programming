@@ -1,6 +1,4 @@
 #!/usr/bin/python3
 for c in range(97, 123):
-    if chr(c) == "e" or chr(c) == "q":
-        pass
-    else:
-        print(chr(c), end="")
+    if chr(c) != "e" or chr(c) != "q":
+       print("{}".format(chr(c)), end="")
