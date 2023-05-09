@@ -13,4 +13,5 @@ This directory contains the following files:
 |File| Description|
 |:-------|:-------|
 |[0-run](0-run)| Shell script that runs a Python script<br>The Python file name will be saved in the environment variable ```$PYFILE```|
-|[0-run](0-run)| Shell script that runs a Python script|
+|[1-run_inline](1-run_inline)| Shell script that runs Python code<br>The Python code will be saved in the environment variable ```$PYCODE```|
+|[2-print.py](2-print.py)| Python script that prints exactly ```"Programming is like building a multilingual puzzle```, followed by a new line|
