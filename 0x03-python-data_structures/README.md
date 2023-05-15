@@ -1,6 +1,6 @@
 # 0x03. Python - Data Structures: Lists, Tuples
 
-![Image link](https://i.imgflip.com/2gnd76.jpg)
+![Image link](https://i.morioh.com/201207/5da0a6b2.webp)
 
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  &#128511;
