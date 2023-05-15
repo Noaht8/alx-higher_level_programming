@@ -1,6 +1,6 @@
 # 0x02. Python - import & modules
 
-![Image link](https://pbs.twimg.com/media/EPgwQ88XkAE93xy.jpg)
+![Image link](https://mw.home.amu.edu.pl/zajecia/PPR2017/modules.jpg)
 
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  &#128511;
