@@ -1,6 +1,6 @@
 # Higher Level Programming
 
-![Image link](https://miro.medium.com/v2/resize:fit:828/1*IRGB-4OAoO8KSqH_huDPFw.gif)
+![Image link](https://i0.wp.com/idsc.miami.edu/wp-content/uploads/2020/10/Python-image-with-logo-940x530-1.jpg?resize=940%2C530&ssl=1)
 
 The list of projects included are:
 
