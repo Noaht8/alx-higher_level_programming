@@ -23,7 +23,7 @@ This directory contains the following files:
 |[101-safe_function.py](101-safe_function.py)|Python function that executes a function safely|
 |[103-python.c](103-python.c)|Three C functions that print some basic info about Python lists, Python bytes an Python float objects|
 
-[102-magic_calculation.py](102-magic_calculation.py)
+[102-magic_calculation.py](102-magic_calculation.py) <br>
  Python function `def magic_calculation(a, b):` that does exactly the same as the following Python bytecode:
 
  ```python
