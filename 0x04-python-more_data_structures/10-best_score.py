@@ -3,8 +3,11 @@
 def best_score(a_dictionary):
     if not isinstance(a_dictionary, dict) or len(a_dictionary) == 0:
         return None
-    else:
-        sorted_list = sorted(a_dictionary.items(), key=lambda x: x[1], reverse=True)
-        conv_list_to_dict = dict(sorted_list)
-        biggest_value = list(conv_list_to_dict.values())[0]
-    return biggest_value
+
+    ret = list(a_dictionary.keys())[0]
+    big = a_dictionary[ret]
+    for k, v in a_dictionary.items():
+        if v > big:
+            big = v
+            ret = k
+    return (ret)
