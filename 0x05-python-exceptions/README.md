@@ -4,7 +4,7 @@
 
 ## Author:
 * **Noah Tsegay** <[Noaht8](https://github.com/Noaht8)>  &#128511;
-<p style="font-size: 8em;">😄</p>
+:smiley: :smiley: :smiley:
 
 ## Directory Contents
 ___
