@@ -23,7 +23,7 @@ This directory contains the following files:
 |[101-square.py](101-square.py)|Python class `Square` that defines a square by: (based on `6-square.py`)|
 |[102-square.py](102-square.py)|Python class `Square` that defines a square by: (based on `4-square.py`)|
 
-[102-magic_calculation.py](102-magic_calculation.py) 
+[103-magic_class.py](103-magic_class.py) 
  <br>Python class `MagicClass` that does exactly the same as the following Python bytecode:
  ```python
  Disassembly of __init__:
