@@ -25,6 +25,15 @@ Best School
 guillaume@ubuntu:~/py/0x00$
 ```
 ## [1-run_inline](1-run_inline)
+Write a Shell script that runs Python code.
+
+The Python code will be saved in the environment variable `$PYCODE`
+```
+guillaume@ubuntu:~/py/0x00$ export PYCODE='print(f"Best School: {88+10}")'
+guillaume@ubuntu:~/py/0x00$ ./1-run_inline 
+Best School: 98
+guillaume@ubuntu:~/py/0x00$
+```
 ## [2-print.py](2-print.py)
 ## [3-print_number.py](3-print_number.py)
 ## [4-print_float.py](4-print_float.py)
