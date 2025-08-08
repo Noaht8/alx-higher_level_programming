@@ -35,6 +35,14 @@ Best School: 98
 guillaume@ubuntu:~/py/0x00$
 ```
 ## [2-print.py](2-print.py)
+Write a Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line.
+
+Use the function `print`
+```
+guillaume@ubuntu:~/py/0x00$ ./2-print.py 
+"Programming is like building a multilingual puzzle
+guillaume@ubuntu:~/py/0x00$
+```
 ## [3-print_number.py](3-print_number.py)
 ## [4-print_float.py](4-print_float.py)
 ## [5-print_string.py](5-print_string.py)
