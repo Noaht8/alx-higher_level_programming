@@ -9,8 +9,8 @@
 - [What makes the big difference between a backtick and an apostrophe?](https://stackoverflow.com/questions/29402361/what-makes-the-big-difference-between-a-backtick-and-an-apostrophe/29402458)
 - [MySQL Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/SQL-Commands-Cheat-Sheet.pdf?US)
 - [MySQL 8.0 SQL Statement Syntax](https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html)
-- installing MySQL in Ubuntu 20.04
-- Basic SQL statements: DDL and DML (focus on the DDL and DML part only in the link)
-- SQL Aggregate functions
-- SQL Select Query
-- SQL Subqueries
+- [installing MySQL in Ubuntu 20.04](https://phoenixnap.com/kb/install-mysql-ubuntu-20-04)
+- [Basic SQL statements: DDL and DML (focus on the DDL and DML part only in the link)](https://www.tpointtech.com/dbms-sql-command)
+- [SQL Aggregate functions](https://www.w3schools.com/sql/sql_aggregate_functions.asp)
+- [SQL Select Query](https://www.geeksforgeeks.org/sql/sql-select-query/)
+- [SQL Subqueries](https://www.tutorialspoint.com/sql/sql-sub-queries.htm)
