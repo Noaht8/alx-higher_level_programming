@@ -14,3 +14,6 @@
 - [SQL Aggregate functions](https://www.w3schools.com/sql/sql_aggregate_functions.asp)
 - [SQL Select Query](https://www.geeksforgeeks.org/sql/sql-select-query/)
 - [SQL Subqueries](https://www.tutorialspoint.com/sql/sql-sub-queries.htm)
+
+## Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
