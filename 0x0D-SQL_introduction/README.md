@@ -46,3 +46,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - All SQL keywords should be in uppercase (`SELECT`, `WHERE`…)
 - A `README.md` file, at the root of the folder of the project, is mandatory
 - The length of your files will be tested using `wc`
+
+## More Info
+## Comments for your SQL file:
+```
+$ cat my_script.sql
+-- 3 first students in the Batch ID=3
+-- because Batch 3 is the best!
+SELECT id, name FROM students WHERE batch_id = 3 ORDER BY created_at DESC LIMIT 3;
+$
+```
