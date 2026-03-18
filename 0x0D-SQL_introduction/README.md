@@ -168,3 +168,4 @@ performance_schema
 sys        
 guillaume@ubuntu:~/$ 
 ```
+## [3-list_tables.sql](3-list_tables.sql)
