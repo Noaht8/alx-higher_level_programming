@@ -143,3 +143,4 @@ guillaume@ubuntu:~/$ cat 1-create_database_if_missing.sql | mysql -hlocalhost -u
 Enter password: 
 guillaume@ubuntu:~/$ 
 ```
+## [2-remove_database.sql](2-remove_database.sql)
