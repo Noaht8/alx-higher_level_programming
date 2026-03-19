@@ -253,3 +253,4 @@ guillaume@ubuntu:~/$ cat 6-list_values.sql | mysql -hlocalhost -uroot -p hbtn_0c
 Enter password: 
 guillaume@ubuntu:~/$ 
 ```
+## [7-insert_value.sql](7-insert_value.sql)
