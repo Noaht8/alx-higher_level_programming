@@ -340,3 +340,7 @@ score   name
 guillaume@ubuntu:~/$ 
 ```
 ## [12-no_cheating.sql](12-no_cheating.sql)
+Write a script that updates the score of Bob to `10` in the table `second_table`.
+
+- You are not allowed to use Bob’s id value, only the `name` field
+- The database name will be passed as an argument of the `mysql` command
