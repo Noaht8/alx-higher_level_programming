@@ -339,3 +339,4 @@ score   name
 10  John
 guillaume@ubuntu:~/$ 
 ```
+## [12-no_cheating.sql](12-no_cheating.sql)
