@@ -304,3 +304,8 @@ Write a script that creates a table `second_table` in the database `hbtn_0c_0` i
   - `id` = 2, `name` = “Alex”, `score` = 3
   - `id` = 3, `name` = “Bob”, `score` = 14
   - `id` = 4, `name` = “George”, `score` = 8
+```
+guillaume@ubuntu:~/$ cat 9-full_creation.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+Enter password: 
+guillaume@ubuntu:~/$ 
+```
