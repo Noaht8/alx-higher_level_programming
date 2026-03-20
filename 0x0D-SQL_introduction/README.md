@@ -309,3 +309,4 @@ guillaume@ubuntu:~/$ cat 9-full_creation.sql | mysql -hlocalhost -uroot -p hbtn_
 Enter password: 
 guillaume@ubuntu:~/$ 
 ```
+## [10-top_score.sql](10-top_score.sql)
