@@ -371,3 +371,4 @@ score   name
 8   George
 guillaume@ubuntu:~/$ 
 ```
+## [14-average.sql](14-average.sql)
