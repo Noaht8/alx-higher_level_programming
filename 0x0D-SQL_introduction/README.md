@@ -356,3 +356,4 @@ score   name
 3   Alex
 guillaume@ubuntu:~/$ 
 ```
+## [13-change_class.sql](13-change_class.sql)
