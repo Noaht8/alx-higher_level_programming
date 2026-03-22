@@ -478,3 +478,6 @@ Sunnyvale   73.2353
 guillaume@ubuntu:~/$ 
 ```
 ## [103-max_state.sql](103-max_state.sql)
+Import in `hbtn_0c_0` database this table dump: [download](temperatures.sql) (same as `Temperatures #0`)
+
+Write a script that displays the max temperature of each state (ordered by State name).
