@@ -418,3 +418,4 @@ score   name
 10  Bob
 guillaume@ubuntu:~/$ 
 ```
+## [100-move_to_utf8.sql](100-move_to_utf8.sql)
