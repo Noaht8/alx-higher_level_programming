@@ -435,3 +435,4 @@ Table   Create Table
 first_table CREATE TABLE `first_table` (\n  `id` int(11) DEFAULT NULL,\n  `name` varchar(256) COLLATE utf8mb4_unicode_ci DEFAULT NULL\n) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci
 guillaume@ubuntu:~/$ 
 ```
+## [101-avg_temperatures.sql](101-avg_temperatures.sql)
