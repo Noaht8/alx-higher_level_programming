@@ -481,3 +481,12 @@ guillaume@ubuntu:~/$
 Import in `hbtn_0c_0` database this table dump: [download](temperatures.sql) (same as `Temperatures #0`)
 
 Write a script that displays the max temperature of each state (ordered by State name).
+```
+guillaume@ubuntu:~/$ cat 103-max_state.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
+Enter password: 
+state   max_temp
+AZ  110
+CA  110
+IL  110
+guillaume@ubuntu:~/$ 
+```
