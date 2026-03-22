@@ -465,3 +465,6 @@ Peoria  66.5392
 guillaume@ubuntu:~/$ 
 ```
 ## [102-top_city.sql](102-top_city.sql)
+Import in `hbtn_0c_0` database this table dump: [download](temperatures.sql) (same as `Temperatures #0`)
+
+Write a script that displays the top 3 of cities temperature during July and August ordered by temperature (descending)
