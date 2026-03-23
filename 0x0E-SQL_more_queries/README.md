@@ -31,3 +31,6 @@ Extra resources around relational database model design:
 - [Design](https://www.guru99.com/database-design.html)
 - [Normalization](https://www.guru99.com/database-normalization.html)
 - [ER Modeling](https://www.guru99.com/er-modeling.html)
+
+## Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
