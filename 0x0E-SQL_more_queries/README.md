@@ -16,9 +16,9 @@
 - [The Seven Types of SQL Joins](https://tableplus.com/blog/2018/09/a-beginners-guide-to-seven-types-of-sql-joins.html)
 - [MySQL Tutorial](https://www.youtube.com/watch?v=yPu6qV5byu4)
 - [SQL Style Guide](https://www.sqlstyle.guide/)
-- MySQL 8.0 SQL Statement Syntax
-- SQL Subqueries
-- SQL Join
-- More on SQL Joins (focus on joins)
-- SQL Distinct keyword
-- SQL union, minus, and intersect operations
+- [MySQL 8.0 SQL Statement Syntax](https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html)
+- [SQL Subqueries](https://www.geeksforgeeks.org/sql/sql-subquery/)
+- [SQL Join](https://www.geeksforgeeks.org/sql/sql-join-set-1-inner-left-right-and-full-joins/)
+- [More on SQL Joins (focus on joins)](https://launchschool.com/books/sql/read/joins)
+- [SQL Distinct keyword](https://www.w3schools.com/sql/sql_distinct.asp)
+- [SQL union, minus, and intersect operations](https://docs.exasol.com/db/latest/sql/table_operators.htm)
