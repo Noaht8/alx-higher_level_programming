@@ -22,3 +22,9 @@
 - [More on SQL Joins (focus on joins)](https://launchschool.com/books/sql/read/joins)
 - [SQL Distinct keyword](https://www.w3schools.com/sql/sql_distinct.asp)
 - [SQL union, minus, and intersect operations](https://docs.exasol.com/db/latest/sql/table_operators.htm)
+
+Extra resources around relational database model design:
+
+- Design
+- Normalization
+- ER Modeling
