@@ -4,9 +4,9 @@
 ## Resources
 ### Read or watch:
 
-- How To Create a New User and Grant Permissions in MySQL
-- How To Use MySQL GRANT Statement To Grant Privileges To a User
-- MySQL constraints
+- [How To Create a New User and Grant Permissions in MySQL](https://www.digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql)
+- [How To Use MySQL GRANT Statement To Grant Privileges To a User](https://www.mysqltutorial.org/mysql-administration/mysql-grant/)
+- [MySQL constraints](https://zetcode.com/mysql/constraints/)
 - SQL technique: subqueries
 - Basic query operation: the join
 - SQL technique: multiple joins and the distinct keyword
