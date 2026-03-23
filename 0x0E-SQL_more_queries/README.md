@@ -25,6 +25,6 @@
 
 Extra resources around relational database model design:
 
-- Design
-- Normalization
-- ER Modeling
+- [Design](https://www.guru99.com/database-design.html)
+- [Normalization](https://www.guru99.com/database-normalization.html)
+- [ER Modeling](https://www.guru99.com/er-modeling.html)
