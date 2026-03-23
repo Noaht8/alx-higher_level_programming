@@ -12,6 +12,9 @@
 - SQL technique: multiple joins and the distinct keyword
 - SQL technique: join types
 - SQL technique: union and minus
+
+Use the following link for the above `https://home.csulb.edu/~dbrown/CECS323/`
+
 - [MySQL Cheat Sheet](https://intellipaat.com/mediaFiles/2019/02/SQL-Commands-Cheat-Sheet.pdf?US)
 - [The Seven Types of SQL Joins](https://tableplus.com/blog/2018/09/a-beginners-guide-to-seven-types-of-sql-joins.html)
 - [MySQL Tutorial](https://www.youtube.com/watch?v=yPu6qV5byu4)
