@@ -129,3 +129,4 @@ $
 ## Contents
 ## This Directory contains the following files
 
+## [0-privileges.sql](0-privileges.sql)
