@@ -122,3 +122,5 @@ id  name
 8   Thriller
 $
 ```
+
+![](sql_join.png)
