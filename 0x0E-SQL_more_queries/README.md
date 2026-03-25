@@ -185,3 +185,4 @@ GRANT USAGE ON *.* TO `user_0d_2`@`localhost`
 GRANT SELECT ON `hbtn_0d_2`.* TO `user_0d_2`@`localhost`  
 guillaume@ubuntu:~/$ 
 ```
+## [3-force_name.sql](3-force_name.sql)
