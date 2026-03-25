@@ -165,3 +165,4 @@ GRANT APPLICATION_PASSWORD_ADMIN,...,XA_RECOVER_ADMIN ON *.* TO `user_0d_1`@`loc
 ERROR 1141 (42000) at line 4: There is no such grant defined for user 'user_0d_2' on host 'localhost'
 guillaume@ubuntu:~/$ 
 ```
+## [2-create_read_user.sql](2-create_read_user.sql)
