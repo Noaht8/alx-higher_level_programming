@@ -211,3 +211,4 @@ id  name
 89  Best School
 guillaume@ubuntu:~/$ 
 ```
+## [4-never_empty.sql](4-never_empty.sql)
