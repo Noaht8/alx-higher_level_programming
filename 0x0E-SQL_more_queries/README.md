@@ -284,3 +284,4 @@ id  name
 3   Texas
 guillaume@ubuntu:~/$ 
 ```
+## [7-cities.sql](7-cities.sql)
