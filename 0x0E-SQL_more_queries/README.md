@@ -311,3 +311,4 @@ id  state_id    name
 1   1   San Francisco
 guillaume@ubuntu:~/$ 
 ```
+## [8-cities_of_california_subquery.sql](8-cities_of_california_subquery.sql)
