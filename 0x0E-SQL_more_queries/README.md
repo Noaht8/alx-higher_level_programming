@@ -263,3 +263,4 @@ id  name
 89  Best School
 guillaume@ubuntu:~/$ 
 ```
+## [6-states.sql](6-states.sql)
