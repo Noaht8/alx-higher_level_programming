@@ -421,3 +421,30 @@ Write a script that lists all shows contained in the database `hbtn_0d_tvshows`.
 - If a show doesn’t have a genre, display `NULL`
 - You can use only one `SELECT` statement
 - The database name will be passed as an argument of the `mysql` command
+```
+guillaume@ubuntu:~/$ cat 11-genre_id_all_shows.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows
+Enter password: 
+title   genre_id
+Better Call Saul    NULL
+Breaking Bad    1
+Breaking Bad    6
+Breaking Bad    7
+Breaking Bad    8
+Dexter  1
+Dexter  2
+Dexter  6
+Dexter  7
+Dexter  8
+Game of Thrones 1
+Game of Thrones 3
+Game of Thrones 4
+Homeland    NULL
+House   1
+House   2
+New Girl    5
+Silicon Valley  5
+The Big Bang Theory 5
+The Last Man on Earth   1
+The Last Man on Earth   5
+guillaume@ubuntu:~/$ 
+```
