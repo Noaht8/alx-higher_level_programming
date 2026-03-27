@@ -342,3 +342,4 @@ id  name
 2   San Jose
 guillaume@ubuntu:~/$ 
 ```
+## [9-cities_by_state_join.sql](9-cities_by_state_join.sql)
