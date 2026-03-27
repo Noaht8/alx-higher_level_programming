@@ -377,3 +377,4 @@ id  name    name
 8   Dallas  Texas
 guillaume@ubuntu:~/$ 
 ```
+## [10-genre_id_by_show.sql](10-genre_id_by_show.sql)
