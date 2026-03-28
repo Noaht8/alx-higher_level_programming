@@ -477,3 +477,17 @@ Write a script that lists all genres from `hbtn_0d_tvshows` and displays the num
 - Results must be sorted in descending order by the number of shows linked
 - You can use only one `SELECT` statement
 - The database name will be passed as an argument of the `mysql` command
+```
+guillaume@ubuntu:~/$ cat 13-count_shows_by_genre.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows
+Enter password: 
+genre   number_of_shows
+Drama   5
+Comedy  4
+Mystery 2
+Crime   2
+Suspense    2
+Thriller    2
+Adventure   1
+Fantasy 1
+guillaume@ubuntu:~/$ 
+```
