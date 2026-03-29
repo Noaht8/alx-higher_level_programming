@@ -579,3 +579,12 @@ Write a script that uses the `hbtn_0d_tvshows` database to list all genres not l
 - Results must be sorted in ascending order by the genre name
 - You can use a maximum of two `SELECT` statement
 - The database name will be passed as an argument of the `mysql` command
+```
+guillaume@ubuntu:~/$ cat 100-not_my_genres.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows
+Enter password: 
+name
+Adventure
+Comedy
+Fantasy
+guillaume@ubuntu:~/$ 
+```
