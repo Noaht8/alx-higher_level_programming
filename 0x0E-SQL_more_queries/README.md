@@ -611,7 +611,7 @@ House
 guillaume@ubuntu:~/$ 
 ```
 ## [102-rating_shows.sql](102-rating_shows.sql)
-Import the database `hbtn_0d_tvshows_rate` dump to your MySQL server: download
+Import the database `hbtn_0d_tvshows_rate` dump to your MySQL server: [download](hbtn_0d_tvshows_rate.sql)
 
 Write a script that lists all shows from `hbtn_0d_tvshows_rate` by their rating.
 
