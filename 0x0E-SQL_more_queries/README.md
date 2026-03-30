@@ -619,3 +619,19 @@ Write a script that lists all shows from `hbtn_0d_tvshows_rate` by their rating.
 - Results must be sorted in descending order by the rating
 - You can use only one `SELECT` statement
 - The database name will be passed as an argument of the `mysql` command
+```
+guillaume@ubuntu:~/$ cat 102-rating_shows.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows_rate
+Enter password: 
+title   rating
+Better Call Saul    163
+Homeland    145
+Silicon Valley  82
+Game of Thrones 79
+Dexter  24
+House   21
+Breaking Bad    16
+The Last Man on Earth   10
+The Big Bang Theory 0
+New Girl    0
+guillaume@ubuntu:~/$ 
+```
