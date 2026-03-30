@@ -644,3 +644,17 @@ Write a script that lists all genres in the database `hbtn_0d_tvshows_rate` by t
 - Results must be sorted in descending order by their rating
 - You can use only one `SELECT` statement
 - The database name will be passed as an argument of the `mysql` command
+```
+guillaume@ubuntu:~/$ cat 103-rating_genres.sql | mysql -hlocalhost -uroot -p hbtn_0d_tvshows_rate
+Enter password: 
+name    rating
+Drama   150
+Comedy  92
+Adventure   79
+Fantasy 79
+Mystery 45
+Crime   40
+Suspense    40
+Thriller    40
+guillaume@ubuntu:~/$ 
+```
