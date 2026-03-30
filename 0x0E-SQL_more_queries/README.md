@@ -635,3 +635,4 @@ The Big Bang Theory 0
 New Girl    0
 guillaume@ubuntu:~/$ 
 ```
+## [103-rating_genres.sql](103-rating_genres.sql)
