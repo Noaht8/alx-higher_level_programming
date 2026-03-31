@@ -52,3 +52,6 @@ Indeed, all of them have the same type of syntax, but not always. Please read tu
 - SQLAlchemy ORM Tutorial for Python Developers (Warning: This tutorial is with PostgreSQL, but the concept of SQLAlchemy is the same with MySQL)
 - SQLAlchemy Tutorial
 - Python Virtual Environments: A primer
+
+## Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
