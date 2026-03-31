@@ -47,11 +47,17 @@ Indeed, all of them have the same type of syntax, but not always. Please read tu
 - [mysqlclient/MySQLdb](https://github.com/PyMySQL/mysqlclient)
 - [Introduction to SQLAlchemy](https://www.youtube.com/watch?v=woKYyhLCcnU)
 - [Flask SQLAlchemy](https://www.youtube.com/playlist?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW)
-- 10 common stumbling blocks for SQLAlchemy newbies
-- Python SQLAlchemy Cheatsheet
-- SQLAlchemy ORM Tutorial for Python Developers (Warning: This tutorial is with PostgreSQL, but the concept of SQLAlchemy is the same with MySQL)
-- SQLAlchemy Tutorial
-- Python Virtual Environments: A primer
+- [10 common stumbling blocks for SQLAlchemy newbies](http://alextechrants.blogspot.com/2013/11/10-common-stumbling-blocks-for.html)
+
+- [Python SQLAlchemy Cheatsheet](https://www.pythonsheets.com/notes/database/python-sqlalchemy-orm.html)
+
+or
+
+- [Python SQLAlchemy Cheatsheet](https://www.pythonsheets.com/notes/database/python-sqlalchemy.html)
+
+- [SQLAlchemy ORM Tutorial for Python Developers](https://auth0.com/blog/sqlalchemy-orm-tutorial-for-python-developers/) (Warning: This tutorial is with PostgreSQL, but the concept of SQLAlchemy is the same with MySQL)
+- [SQLAlchemy Tutorial](https://overiq.com/sqlalchemy-101/)
+- [Python Virtual Environments: A primer](https://realpython.com/python-virtual-environments-a-primer/)
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
