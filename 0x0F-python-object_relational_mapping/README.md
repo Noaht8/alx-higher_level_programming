@@ -39,14 +39,14 @@ Indeed, all of them have the same type of syntax, but not always. Please read tu
 ## Resources
 ### Read or watch:
 
-- Object-relational mappers
-- mysqlclient/MySQLdb documentation (please don’t pay attention to _mysql)
-- MySQLdb tutorial
-- SQLAlchemy tutorial
-- SQLAlchemy
-- mysqlclient/MySQLdb
-- Introduction to SQLAlchemy
-- Flask SQLAlchemy
+- [Object-relational mappers](https://www.fullstackpython.com/object-relational-mappers-orms.html)
+- [mysqlclient/MySQLdb documentation](https://mysqlclient.readthedocs.io/) (please don’t pay attention to _mysql)
+- [MySQLdb tutorial](https://www.mikusa.com/python-mysql-docs/index.html)
+- [SQLAlchemy tutorial](https://docs.sqlalchemy.org/en/13/orm/tutorial.html)
+- [SQLAlchemy](https://docs.sqlalchemy.org/en/13/)
+- [mysqlclient/MySQLdb](https://github.com/PyMySQL/mysqlclient)
+- [Introduction to SQLAlchemy](https://www.youtube.com/watch?v=woKYyhLCcnU)
+- [Flask SQLAlchemy](https://www.youtube.com/playlist?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW)
 - 10 common stumbling blocks for SQLAlchemy newbies
 - Python SQLAlchemy Cheatsheet
 - SQLAlchemy ORM Tutorial for Python Developers (Warning: This tutorial is with PostgreSQL, but the concept of SQLAlchemy is the same with MySQL)
