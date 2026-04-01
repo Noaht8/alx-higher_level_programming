@@ -95,3 +95,12 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 `python3 -c print(__import__("my_module").MyClass.my_function.__doc__)')`
 - A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
 - You are not allowed to use `execute` with sqlalchemy
+
+## More Info
+### Install and activate venv
+To create a Python Virtual Environment, allowing you to install specific dependencies for this python project, we will install venv:
+```
+$ sudo apt-get install python3.8-venv
+$ python3 -m venv venv
+$ source venv/bin/activate
+```
