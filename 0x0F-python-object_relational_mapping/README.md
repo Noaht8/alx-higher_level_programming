@@ -411,3 +411,5 @@ states  CREATE TABLE `states` (\n  `id` int(11) NOT NULL AUTO_INCREMENT,\n  `nam
 guillaume@ubuntu:~/0x0F$ 
 ```
 **No test cases needed**
+
+## [7-model_state_fetch_all.py](7-model_state_fetch_all.py)
