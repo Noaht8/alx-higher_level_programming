@@ -438,3 +438,5 @@ guillaume@ubuntu:~/0x0F$ ./7-model_state_fetch_all.py root root hbtn_0e_6_usa
 guillaume@ubuntu:~/0x0F$ 
 ```
 **No test cases needed**
+
+## [8-model_state_fetch_first.py](8-model_state_fetch_first.py)
