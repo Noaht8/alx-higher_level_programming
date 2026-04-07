@@ -507,3 +507,16 @@ Write a script that adds the `State` object “Louisiana” to the database `hbt
 - Your script should connect to a MySQL server running on `localhost` at port `3306`
 - Print the new `states.id` after creation
 - Your code should not be executed when imported
+```
+guillaume@ubuntu:~/0x0F$ ./11-model_state_insert.py root root hbtn_0e_6_usa 
+6
+guillaume@ubuntu:~/0x0F$ ./7-model_state_fetch_all.py root root hbtn_0e_6_usa 
+1: California
+2: Arizona
+3: Texas
+4: New York
+5: Nevada
+6: Louisiana
+guillaume@ubuntu:~/0x0F$ 
+```
+**No test cases needed**
