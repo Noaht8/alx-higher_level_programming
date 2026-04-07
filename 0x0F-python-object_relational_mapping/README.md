@@ -468,3 +468,12 @@ Write a script that lists all `State` objects that contain the letter a from the
 - Results must be sorted in ascending order by `states.id`
 - The results must be displayed as they are in the example below
 - Your code should not be executed when imported
+```
+guillaume@ubuntu:~/0x0F$ ./9-model_state_filter_a.py root root hbtn_0e_6_usa
+1: California
+2: Arizona
+3: Texas
+5: Nevada
+guillaume@ubuntu:~/0x0F$ 
+```
+**No test cases needed**
