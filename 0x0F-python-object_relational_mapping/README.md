@@ -630,3 +630,10 @@ guillaume@ubuntu:~/0x0F$
 **No test cases needed**
 
 ## [relationship_city.py](relationship_city.py), [relationship_state.py](relationship_state.py), [100-relationship_states_cities.py](100-relationship_states_cities.py)
+Improve the files `model_city.py` and `model_state.py`, and save them as `relationship_city.py` and `relationship_state.py`:
+
+- `City` class:
+    - No change
+- `State` class:
+    - In addition to previous requirements, the class attribute `cities` must represent a relationship with the class `City`. If the `State` object is deleted, all linked `City` objects must be automatically deleted. Also, the reference from a `City` object to his `State` should be named `state`
+- You must use the module `SQLAlchemy`
