@@ -732,3 +732,7 @@ guillaume@ubuntu:~/0x0F$ ./101-relationship_states_cities_list.py root root hbtn
     15: Carson City
 guillaume@ubuntu:~/0x0F$ 
 ```
+**No test cases needed**
+
+## [102-relationship_cities_states_list.py](102-relationship_cities_states_list.py)
+
