@@ -33,3 +33,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 - You are not allowed to publish any content of this project.
 - Any form of plagiarism is strictly forbidden and will result in removal from the program.
+
+## Requirements
+## General
+- Allowed editors: `vi`, `vim`, `emacs`
+- A `README.md` file, at the root of the folder of the project, is mandatory
+- All your scripts will be tested on Ubuntu 20.04 LTS
+- All your Bash scripts should be exactly 3 lines long (`wc -l file` should print 3)
+- All your files should end with a new line
+- All your files must be executable
+- The first line of all your bash files should be exactly `#!/bin/bash`
