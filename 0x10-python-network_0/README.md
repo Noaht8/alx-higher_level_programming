@@ -63,3 +63,8 @@ Write a Bash script that takes in a URL, sends a request to that URL, and displa
 - You have to use `curl`
 
 Please test your script in the sandbox provided, using the web server running on port 5000
+```
+guillaume@ubuntu:~/0x10$ ./0-body_size.sh 0.0.0.0:5000
+10
+guillaume@ubuntu:~/0x10$ 
+```
