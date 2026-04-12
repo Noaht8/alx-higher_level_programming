@@ -81,3 +81,8 @@ Route 2
 guillaume@ubuntu:~/0x10$ 
 ```
 ## [2-delete.sh](2-delete.sh)
+Write a Bash script that sends a `DELETE` request to the URL passed as the first argument and displays the body of the response
+
+- You have to use `curl`
+
+Please test your script in the sandbox provided, using the web server running on port 5000
