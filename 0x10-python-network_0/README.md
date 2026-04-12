@@ -86,3 +86,8 @@ Write a Bash script that sends a `DELETE` request to the URL passed as the first
 - You have to use `curl`
 
 Please test your script in the sandbox provided, using the web server running on port 5000
+```
+guillaume@ubuntu:~/0x10$ ./2-delete.sh 0.0.0.0:5000/route_3 ; echo ""
+I'm a DELETE request
+guillaume@ubuntu:~/0x10$ 
+```
