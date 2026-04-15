@@ -103,3 +103,9 @@ OPTIONS, HEAD, PUT
 guillaume@ubuntu:~/0x10$ 
 ```
 ## [4-header.sh](4-header.sh)
+Write a Bash script that takes in a URL as an argument, sends a `GET` request to the URL, and displays the body of the response
+
+- A header variable `X-School-User-Id` must be sent with the value `98`
+- You have to use `curl`
+
+Please test your script in the sandbox provided, using the web server running on port 5000
