@@ -91,3 +91,4 @@ guillaume@ubuntu:~/0x10$ ./2-delete.sh 0.0.0.0:5000/route_3 ; echo ""
 I'm a DELETE request
 guillaume@ubuntu:~/0x10$ 
 ```
+## [3-methods.sh](3-methods.sh)
