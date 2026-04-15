@@ -109,3 +109,8 @@ Write a Bash script that takes in a URL as an argument, sends a `GET` request to
 - You have to use `curl`
 
 Please test your script in the sandbox provided, using the web server running on port 5000
+```
+guillaume@ubuntu:~/0x10$ ./4-header.sh 0.0.0.0:5000/route_5 ; echo ""
+Hello School!
+guillaume@ubuntu:~/0x10$ 
+```
