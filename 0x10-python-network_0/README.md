@@ -92,3 +92,8 @@ I'm a DELETE request
 guillaume@ubuntu:~/0x10$ 
 ```
 ## [3-methods.sh](3-methods.sh)
+Write a Bash script that takes in a URL and displays all HTTP methods the server will accept.
+
+- You have to use `curl`
+
+Please test your script in the sandbox provided, using the web server running on port 5000
