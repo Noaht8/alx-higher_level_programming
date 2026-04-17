@@ -175,3 +175,11 @@ Write a Bash script that sends a request to a URL passed as an argument, and dis
 - You have to use `curl`
 
 Please test your script in the sandbox provided, using the web server running on port 5000
+```
+guillaume@ubuntu:~/0x10$ ./100-status_code.sh 0.0.0.0:5000 ; echo ""
+200
+guillaume@ubuntu:~/0x10$ 
+guillaume@ubuntu:~/0x10$ ./100-status_code.sh 0.0.0.0:5000/nop ; echo ""
+404
+guillaume@ubuntu:~/0x10$ 
+```
