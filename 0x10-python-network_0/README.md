@@ -167,3 +167,4 @@ guillaume@ubuntu:~/0x10$ wc -l 6-peak.txt
 2 6-peak.txt
 guillaume@ubuntu:~/0x10$ 
 ```
+## [100-status_code.sh](100-status_code.sh)
