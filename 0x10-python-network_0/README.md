@@ -190,3 +190,27 @@ Write a Bash script that sends a JSON `POST` request to a URL passed as the firs
 - You have to use `curl`
 
 Please test your scripts in the sandbox provided, using the web server running on port 5000
+
+```
+guillaume@ubuntu:~/0x10$ cat my_json_0
+{
+    "name": "John Doe",
+    "age": 33
+}
+guillaume@ubuntu:~/0x10$ ./101-post_json.sh 0.0.0.0:5000/route_json my_json_0 ; echo ""
+Valid JSON
+guillaume@ubuntu:~/0x10$ 
+guillaume@ubuntu:~/0x10$ cat my_json_1
+I'm a JSON! really!
+guillaume@ubuntu:~/0x10$ ./101-post_json.sh 0.0.0.0:5000/route_json my_json_1 ; echo ""
+Not a valid JSON
+guillaume@ubuntu:~/0x10$ 
+guillaume@ubuntu:~/0x10$ cat my_json_2
+{
+    "name": "John Doe",
+    "age": 33,
+}
+guillaume@ubuntu:~/0x10$ ./101-post_json.sh 0.0.0.0:5000/route_json my_json_2 ; echo ""
+Not a valid JSON
+guillaume@ubuntu:~/0x10$ 
+```
