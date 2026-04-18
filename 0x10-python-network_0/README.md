@@ -221,3 +221,8 @@ Write a Bash script that makes a request to `0.0.0.0:5000/catch_me` that causes 
 - You are not allow to use `echo`, `cat`, etc. to display the final result
 
 Please test your script in the sandbox provided, using the web server running on port 5000
+```
+guillaume@ubuntu:~/0x10$ ./102-catch_me.sh ; echo ""
+You got me!
+guillaume@ubuntu:~/0x10$ 
+```
