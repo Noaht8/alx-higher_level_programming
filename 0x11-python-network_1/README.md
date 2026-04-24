@@ -90,3 +90,4 @@ guillaume@ubuntu:~/0x11$ ./2-post_email.py http://0.0.0.0:5000/post_email hr@hol
 Your email is: hr@holbertonschool.com
 guillaume@ubuntu:~/0x11$ 
 ```
+## [3-error_code.py](3-error_code.py)
