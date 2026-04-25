@@ -162,3 +162,14 @@ Write a Python script that takes in a URL, sends a request to the URL and displa
 - You don’t need to check arguments passed to the script (number or type)
 
 Please test your script in the sandbox provided, using the web server running on port 5000
+```
+guillaume@ubuntu:~/0x11$ ./7-error_code.py http://0.0.0.0:5000
+Index
+guillaume@ubuntu:~/0x11$ ./7-error_code.py http://0.0.0.0:5000/status_401
+Error code: 401
+guillaume@ubuntu:~/0x11$ ./7-error_code.py http://0.0.0.0:5000/doesnt_exist
+Error code: 404
+guillaume@ubuntu:~/0x11$ ./7-error_code.py http://0.0.0.0:5000/status_500
+Error code: 500
+guillaume@ubuntu:~/0x11$ 
+```
