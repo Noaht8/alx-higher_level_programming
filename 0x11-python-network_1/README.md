@@ -148,3 +148,8 @@ Write a Python script that takes in a URL and an email address, sends a `POST` r
 - You don’t need to error check arguments passed to the script (number or type)
 
 Please test your script in the sandbox provided, using the web server running on port 5000
+```
+guillaume@ubuntu:~/0x11$ ./6-post_email.py http://0.0.0.0:5000/post_email hr@holbertonschool.com
+Your email is: hr@holbertonschool.com
+guillaume@ubuntu:~/0x11$ 
+```
