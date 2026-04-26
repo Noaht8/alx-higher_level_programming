@@ -198,3 +198,11 @@ guillaume@ubuntu:~/0x11$ ./8-json_api.py b
 guillaume@ubuntu:~/0x11$ 
 ```
 ## [10-my_github.py](10-my_github.py)
+Write a Python script that takes your GitHub credentials (username and password) and uses the [GitHub API](https://docs.github.com/en/rest/users?apiVersion=2026-03-10) to display your `id`
+
+- You must use [Basic Authentication](https://docs.github.com/en/rest/authentication/authenticating-to-the-rest-api) with a [personal access token as password](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) to access to your information (only `read:user` permission is needed)
+- The first argument will be your `username`
+- The second argument will be your `password` (in your case, a [personal access token as password](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens))
+- You must use the package `requests` and `sys`
+- You are not allowed to import packages other than `requests` and `sys`
+- You don’t need to check arguments passed to the script (number or type)
