@@ -243,3 +243,4 @@ a76f5189f6cec4b3e6d9035e2b55dcda6050dfdb: Ryuta Kamizono
 8f0d8551893789f26e5d6b82ccef00779296818f: Rafael Mendonça França
 guillaume@ubuntu:~/0x11$ 
 ```
+**Be careful: only 60 requests by hour by IP for unauthenticated requests [Rate limit](https://docs.github.com/en/rest)**
