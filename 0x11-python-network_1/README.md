@@ -206,3 +206,10 @@ Write a Python script that takes your GitHub credentials (username and password)
 - You must use the package `requests` and `sys`
 - You are not allowed to import packages other than `requests` and `sys`
 - You don’t need to check arguments passed to the script (number or type)
+```
+guillaume@ubuntu:~/0x11$ ./10-my_github.py papamuziko cisfun
+2531536
+guillaume@ubuntu:~/0x11$ ./10-my_github.py papamuziko wrong_pwd
+None
+guillaume@ubuntu:~/0x11$ 
+```
