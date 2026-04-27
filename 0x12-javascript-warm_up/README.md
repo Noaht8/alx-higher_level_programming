@@ -13,12 +13,12 @@ For the moment, and for learning all basic concepts of this language, we will do
 ## Resources
 ### Read or watch:
 
-- Writing JavaScript Code
-- Variables
-- Data Types
-- Operators
-- Operator Precedence
-- Controlling Program Flow
+- [Writing JavaScript Code](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity)
+- [Variables](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Variables)
+- [Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Data_structures)
+- [Operators](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity)
+- [Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence)
+- [Controlling Program Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
 - Functions
 - Objects and Arrays
 - Intrinsic Objects
