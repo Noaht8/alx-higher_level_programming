@@ -19,10 +19,10 @@ For the moment, and for learning all basic concepts of this language, we will do
 - [Operators](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity)
 - [Operator Precedence](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence)
 - [Controlling Program Flow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
-- Functions
-- Objects and Arrays
-- Intrinsic Objects
-- Module patterns
-- var, let and const
-- JavaScript Tutorial
-- Modern JS
+- [Functions](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Functions)
+- [Objects and Arrays](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects)
+- [Intrinsic Objects](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects)
+- [Module patterns](https://darrenderidder.github.io/talks/ModulePatterns/#/)
+- [var, let and const](https://www.youtube.com/watch?v=sjyJBL5fkp8)
+- [JavaScript Tutorial](https://www.youtube.com/watch?v=vZBCTc9zHtI)
+- [Modern JS](https://github.com/mbeaudru/modern-js-cheatsheet)
