@@ -26,3 +26,6 @@ For the moment, and for learning all basic concepts of this language, we will do
 - [var, let and const](https://www.youtube.com/watch?v=sjyJBL5fkp8)
 - [JavaScript Tutorial](https://www.youtube.com/watch?v=vZBCTc9zHtI)
 - [Modern JS](https://github.com/mbeaudru/modern-js-cheatsheet)
+
+## Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
