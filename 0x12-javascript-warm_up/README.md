@@ -83,9 +83,9 @@ $ sudo npm install semistandard --global
 ## [0-javascript_is_amazing.js](0-javascript_is_amazing.js)
 Write a script that prints “JavaScript is amazing”:
 
-You must create a constant variable called `myVar` with the value “JavaScript is amazing”
-You must use `console.log(...)` to print all output
-You are not allowed to use `var`
+- You must create a constant variable called `myVar` with the value “JavaScript is amazing”
+- You must use `console.log(...)` to print all output
+- You are not allowed to use `var`
 ```
 guillaume@ubuntu:~/0x12$ ./0-javascript_is_amazing.js 
 JavaScript is amazing
