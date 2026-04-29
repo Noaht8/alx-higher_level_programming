@@ -80,3 +80,4 @@ $ sudo npm install semistandard --global
 
 ## Contents
 ## This Directory contains the following files
+## [0-javascript_is_amazing.js](0-javascript_is_amazing.js)
