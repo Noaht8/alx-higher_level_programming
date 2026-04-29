@@ -64,3 +64,10 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - Your code should be `semistandard` compliant (version 16.x.x). [Rules of Standard](https://standardjs.com/rules.html) + [semicolons on top](https://github.com/standard/semistandard). Also as reference: [AirBnB style](https://github.com/airbnb/javascript)
 - All your files must be executable
 - The length of your files will be tested using `wc`
+
+## More Info
+## Install Node 14
+```
+$ curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+$ sudo apt-get install -y nodejs
+```
