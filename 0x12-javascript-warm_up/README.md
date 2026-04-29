@@ -93,3 +93,4 @@ guillaume@ubuntu:~/0x12$
 guillaume@ubuntu:~/0x12$ semistandard ./0-javascript_is_amazing.js 
 guillaume@ubuntu:~/0x12$ 
 ```
+## [1-multi_languages.js](1-multi_languages.js)
