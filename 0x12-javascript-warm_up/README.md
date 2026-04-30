@@ -135,3 +135,10 @@ Write a script that prints the first argument passed to it:
 - You must use `console.log(...)` to print all output
 - You are not allowed to use `var`
 - You are not allowed to use `length`
+```
+guillaume@ubuntu:~/0x12$ ./3-value_argument.js 
+No argument
+guillaume@ubuntu:~/0x12$ ./3-value_argument.js School
+School
+guillaume@ubuntu:~/0x12$ 
+```
