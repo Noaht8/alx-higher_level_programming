@@ -108,3 +108,4 @@ Python is cool
 JavaScript is amazing
 guillaume@ubuntu:~/0x12$ 
 ```
+## [2-arguments.js](2-arguments.js)
