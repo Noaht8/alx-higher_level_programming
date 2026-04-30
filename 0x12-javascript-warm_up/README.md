@@ -143,3 +143,7 @@ School
 guillaume@ubuntu:~/0x12$ 
 ```
 ## [4-concat.js](4-concat.js)
+Write a script that prints two arguments passed to it, in the following format: “ is ”
+
+- You must use `console.log(...)` to print all output
+- You are not allowed to use `var`
