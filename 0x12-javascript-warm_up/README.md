@@ -176,3 +176,4 @@ guillaume@ubuntu:~/0x12$ ./5-to_integer.js School
 Not a number
 guillaume@ubuntu:~/0x12$ 
 ```
+## [6-multi_languages_loop.js](6-multi_languages_loop.js)
