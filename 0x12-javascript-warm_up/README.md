@@ -156,3 +156,4 @@ guillaume@ubuntu:~/0x12$ ./4-concat.js
 undefined is undefined
 guillaume@ubuntu:~/0x12$ 
 ```
+## [5-to_integer.js](5-to_integer.js)
