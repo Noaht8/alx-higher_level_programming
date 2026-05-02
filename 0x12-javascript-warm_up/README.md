@@ -218,3 +218,4 @@ Missing number of occurrences
 guillaume@ubuntu:~/0x12$ ./7-multi_c.js -3
 guillaume@ubuntu:~/0x12$ 
 ```
+## [8-square.js](8-square.js)
