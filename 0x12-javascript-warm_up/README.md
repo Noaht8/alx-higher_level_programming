@@ -264,3 +264,4 @@ guillaume@ubuntu:~/0x12$ ./9-add.js 13 89
 102
 guillaume@ubuntu:~/0x12$ 
 ```
+## [10-factorial.js](10-factorial.js)
