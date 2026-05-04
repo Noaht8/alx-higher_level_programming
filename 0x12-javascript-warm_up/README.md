@@ -396,3 +396,6 @@ New value: 5
 guillaume@ubuntu:~/0x12$ 
 ```
 ## [103-object_fct.js](103-object_fct.js)
+Update this script by adding a new function `incr` that increments the integer `value`.
+
+- You are not allowed to use `var`
