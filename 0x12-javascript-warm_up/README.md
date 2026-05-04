@@ -379,3 +379,8 @@ C is fun
 guillaume@ubuntu:~/0x12$ 
 ```
 ## [102-add_me_maybe.js](102-add_me_maybe.js)
+Write a function that increments and calls a function.
+
+- The function must be visible from outside
+- Prototype: `function (number, theFunction)`
+- You are not allowed to use `var`
