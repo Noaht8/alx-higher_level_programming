@@ -360,3 +360,8 @@ Hint: Scope
 **This exercise doesn’t pass** `semistandard` so don’t worry about it.
 
 ## [101-call_me_moby.js](101-call_me_moby.js)
+Write a function that executes x times a function.
+
+- The function must be visible from outside
+- Prototype: `function (x, theFunction)`
+- You are not allowed to use `var`
