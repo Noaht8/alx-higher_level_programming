@@ -13,3 +13,6 @@
 - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Closures)
 - [this/self](https://alistapart.com/article/getoutbindingsituations/)
 - [Modern JS](https://github.com/mbeaudru/modern-js-cheatsheet)
+
+## Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
