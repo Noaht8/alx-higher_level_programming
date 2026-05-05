@@ -10,6 +10,6 @@
 - [extends - ES6](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends)
 - [Object prototypes](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects/Object_prototypes)
 - [Inheritance in JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects/Classes_in_JavaScript)
-- Closures
-- this/self
-- Modern JS
+- [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Closures)
+- [this/self](https://alistapart.com/article/getoutbindingsituations/)
+- [Modern JS](https://github.com/mbeaudru/modern-js-cheatsheet)
