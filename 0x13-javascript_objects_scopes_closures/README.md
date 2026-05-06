@@ -60,3 +60,6 @@ $ sudo npm install semistandard --global
 ## This Directory contains the following files
 
 ## [0-rectangle.js](0-rectangle.js)
+Write an empty class `Rectangle` that defines a rectangle:
+
+- You must use the `class` notation for defining your class
