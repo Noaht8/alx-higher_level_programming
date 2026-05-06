@@ -58,3 +58,5 @@ $ sudo npm install semistandard --global
 ```
 ## Contents
 ## This Directory contains the following files
+
+## [0-rectangle.js](0-rectangle.js)
