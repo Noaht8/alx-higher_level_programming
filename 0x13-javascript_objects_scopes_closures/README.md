@@ -302,3 +302,6 @@ CCCC
 guillaume@ubuntu:~/0x13$ 
 ```
 ## [7-occurrences.js](7-occurrences.js)
+Write a function that returns the number of occurrences in a list:
+
+- Prototype: `exports.nbOccurences = function (list, searchElement)`
