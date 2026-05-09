@@ -274,3 +274,4 @@ XXXXXXXX
 XXXXXXXX
 guillaume@ubuntu:~/0x13$ 
 ```
+## [6-square.js](6-square.js)
