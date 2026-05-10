@@ -338,3 +338,4 @@ guillaume@ubuntu:~/0x13$ ./8-main.js
 [ 'String', { id: 12 }, 89, 'School' ]
 guillaume@ubuntu:~/0x13$ 
 ```
+## [9-logme.js](9-logme.js)
