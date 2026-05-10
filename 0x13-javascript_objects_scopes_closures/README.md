@@ -321,3 +321,7 @@ guillaume@ubuntu:~/0x13$ ./7-main.js
 guillaume@ubuntu:~/0x13$ 
 ```
 ## [8-esrever.js](8-esrever.js)
+Write a function that returns the reversed version of a list:
+
+- Prototype: `exports.esrever = function (list)`
+- You are not allow to use the built-in method `reverse`
