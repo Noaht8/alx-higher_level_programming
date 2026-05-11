@@ -359,3 +359,8 @@ guillaume@ubuntu:~/0x13$ ./9-main.js
 guillaume@ubuntu:~/0x13$ 
 ```
 ## [10-converter.js](10-converter.js)
+Write a function that converts a number from base 10 to another base passed as argument:
+
+- Prototype: `exports.converter = function (base)`
+- You are not allowed to import any file
+- You are not allowed to declare any new variable (`var`, `let`, etc..)
