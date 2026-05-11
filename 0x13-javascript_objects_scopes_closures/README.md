@@ -407,3 +407,4 @@ guillaume@ubuntu:~/0x13$ ./100-map.js
 [ 0, 2, 6, 12, 20 ]
 guillaume@ubuntu:~/0x13$ 
 ```
+## [101-sorted.js](101-sorted.js)
