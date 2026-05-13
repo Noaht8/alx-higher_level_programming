@@ -57,6 +57,7 @@ $ export NODE_PATH=/usr/lib/node_modules
 
 ## Contents
 ## This Directory contains the following files
+
 ## [0-readme.js](0-readme.js)
 Write a script that reads and prints the content of a file.
 
@@ -78,3 +79,4 @@ guillaume@ubuntu:~/0x14$ ./0-readme.js doesntexist
   path: 'doesntexist' }
 guillaume@ubuntu:~/0x14$ 
 ```
+## [1-writeme.js](1-writeme.js)
