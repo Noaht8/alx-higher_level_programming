@@ -118,3 +118,4 @@ guillaume@ubuntu:~/0x14$ ./3-starwars_title.js 5
 Attack of the Clones
 guillaume@ubuntu:~/0x14$ 
 ```
+## [4-starwars_count.js](4-starwars_count.js)
