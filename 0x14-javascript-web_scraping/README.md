@@ -130,3 +130,9 @@ guillaume@ubuntu:~/0x14$ ./4-starwars_count.js https://swapi-api.alx-tools.com/a
 guillaume@ubuntu:~/0x14$ 
 ```
 ## [5-request_store.js](5-request_store.js)
+Write a script that gets the contents of a webpage and stores it in a file.
+
+- The first argument is the URL to request
+- The second argument the file path to store the body response
+- The file must be UTF-8 encoded
+- You must use the module `request`
