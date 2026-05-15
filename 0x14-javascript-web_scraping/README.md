@@ -149,3 +149,4 @@ guillaume@ubuntu:~/0x14$ cat loripsum
 
 guillaume@ubuntu:~/0x14$ 
 ```
+## [6-completed_tasks.js](6-completed_tasks.js)
