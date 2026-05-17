@@ -10,9 +10,9 @@
 - [Manipulate DOM elements](https://jquery-tutorial.net/dom-manipulation/the-append-and-prepend-methods/)
 - [API](https://oscarotero.com/jquery/)
 - [Introduction](https://jquery-tutorial.net/ajax/introduction/)
-- GET & POST request
-- JQuery Ajax Tutorial #1 - Using AJAX & API’s
-- What went wrong? Troubleshooting JavaScript
-- JQuery
-- JQuery API
-- JQuery Ajax
+- [GET & POST request](https://jquery-tutorial.net/ajax/the-get-and-post-methods/)
+- [JQuery Ajax Tutorial #1 - Using AJAX & API’s](https://www.youtube.com/watch?v=fEYx8dQr_cQ)
+- [What went wrong? Troubleshooting JavaScript](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_went_wrong)
+- [JQuery](https://jquery.com/)
+- [JQuery API](https://api.jquery.com/)
+- [JQuery Ajax](https://learn.jquery.com/ajax/)
