@@ -60,3 +60,9 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## Contents
 ## This Directory contains the following files
 ## [0-script.js](0-script.js)
+Write a JavaScript script that updates the text color of the `<header>` element to red (`#FF0000`):
+
+- You must use `document.querySelector` to select the HTML tag
+- You can’t use the JQuery API
+
+Please test with this HTML file in your browser:
