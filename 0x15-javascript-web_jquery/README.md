@@ -56,6 +56,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 </head>
 ```
+![](1f1ihd.jpg)
 
 ## Contents
 ## This Directory contains the following files
