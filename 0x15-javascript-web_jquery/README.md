@@ -48,3 +48,11 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - You must use JQuery version 3.x
 - You are not allowed to use `var`
 - HTML should not reload for each action: DOM manipulation, update values, fetch data…
+
+## More Info
+## Import JQuery
+```
+<head>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+</head>
+```
