@@ -113,3 +113,4 @@ guillaume@ubuntu:~/0x15$ cat 1-main.html
 </html>
 guillaume@ubuntu:~/0x15$ 
 ```
+## [2-script.js](2-script.js)
