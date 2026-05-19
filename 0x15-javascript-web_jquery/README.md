@@ -142,3 +142,9 @@ guillaume@ubuntu:~/0x15$ cat 2-main.html
 guillaume@ubuntu:~/0x15$ 
 ```
 ## [3-script.js](3-script.js)
+Write a JavaScript script that adds the class `red` to the `<header>` element when the user clicks on the tag `DIV#red_header`
+
+- You can’t use `document.querySelector` to select the HTML tag
+- You must use the JQuery API
+
+Please test with this HTML file in your browser:
