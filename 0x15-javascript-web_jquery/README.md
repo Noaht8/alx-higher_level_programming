@@ -247,3 +247,4 @@ guillaume@ubuntu:~/0x15$ cat 5-main.html
 </html>
 guillaume@ubuntu:~/0x15$ 
 ```
+## [6-script.js](6-script.js)
