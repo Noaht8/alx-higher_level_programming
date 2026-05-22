@@ -221,3 +221,29 @@ Write a JavaScript script that adds a `<li>` element to a list when the user cli
 - You must use the JQuery API
 
 Please test with this HTML file in your browser:
+```
+guillaume@ubuntu:~/0x15$ cat 5-main.html 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>ALX</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  </head>
+  <body>
+    <header> 
+      First HTML page
+    </header>
+    <br />
+    <div id="add_item">Add item</div>
+    <br />
+    <ul class="my_list">
+      <li>Item</li>
+    </ul>
+    <footer>
+      ALX - 2017
+    </footer>
+    <script type="text/javascript" src="5-script.js"></script>
+  </body>
+</html>
+guillaume@ubuntu:~/0x15$ 
+```
