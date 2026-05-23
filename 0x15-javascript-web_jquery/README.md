@@ -323,3 +323,27 @@ Write a JavaScript script that fetches and lists the `title` for all movies by u
 - You must use the JQuery API
 
 Please test with this HTML file in your browser:
+```
+guillaume@ubuntu:~/0x15$ cat 8-main.html 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>ALX</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  </head>
+  <body>
+    <header> 
+      Star Wars movies
+    </header>
+    <br />
+    <ul id="list_movies">
+    </ul>
+    <br />
+    <footer>
+      ALX - 2017
+    </footer>
+    <script type="text/javascript" src="8-script.js"></script>
+  </body>
+</html>
+guillaume@ubuntu:~/0x15$ 
+```
