@@ -315,3 +315,4 @@ guillaume@ubuntu:~/0x15$ cat 7-main.html
 </html>
 guillaume@ubuntu:~/0x15$ 
 ```
+## [8-script.js](8-script.js)
