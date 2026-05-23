@@ -3,7 +3,7 @@
 ## Concepts
 For this project, we expect you to look at these concepts:
 
-- [JavaScript in the browser](./JavaScript in the browser.pdf)
+- [JavaScript in the browser](JavaScript in the browser.pdf)
 - [Dealing with data statically versus dynamically](Dealing with data statically versus dynamically.pdf)
 
 ## Resources
