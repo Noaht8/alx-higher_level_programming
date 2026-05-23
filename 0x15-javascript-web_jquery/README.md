@@ -316,3 +316,10 @@ guillaume@ubuntu:~/0x15$ cat 7-main.html
 guillaume@ubuntu:~/0x15$ 
 ```
 ## [8-script.js](8-script.js)
+Write a JavaScript script that fetches and lists the `title` for all movies by using this URL: `https://swapi-api.alx-tools.com/api/films/?format=json`
+
+- All movie titles must be list in the HTML tag `UL#list_movies`
+- You can’t use `document.querySelector` to select the HTML tag
+- You must use the JQuery API
+
+Please test with this HTML file in your browser:
