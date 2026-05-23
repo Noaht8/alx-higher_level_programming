@@ -292,3 +292,26 @@ Write a JavaScript script that fetches the character `name` from this URL: `http
 - You must use the JQuery API
 
 Please test with this HTML file in your browser:
+```
+guillaume@ubuntu:~/0x15$ cat 7-main.html 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>ALX</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  </head>
+  <body>
+    <header> 
+      Star Wars character
+    </header>
+    <br />
+    <div id="character"></div>
+    <br />
+    <footer>
+     ALX - 2017
+    </footer>
+    <script type="text/javascript" src="7-script.js"></script>
+  </body>
+</html>
+guillaume@ubuntu:~/0x15$ 
+```
