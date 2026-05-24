@@ -348,3 +348,11 @@ guillaume@ubuntu:~/0x15$ cat 8-main.html
 guillaume@ubuntu:~/0x15$ 
 ```
 ## [9-script.js](9-script.js)
+Write a JavaScript script that fetches from `https://hellosalut.stefanbohacek.dev/?lang=fr` and displays the value of `hello` from that fetch in the HTML tag `DIV#hello`.
+
+- The translation of “hello” must be displayed in the HTML tag `DIV#hello`
+- You can’t use `document.querySelector` to select the HTML tag
+- You must use the JQuery API
+- Your script must work when it is imported from the `<head>` tag
+
+Please test with this HTML file in your browser:
