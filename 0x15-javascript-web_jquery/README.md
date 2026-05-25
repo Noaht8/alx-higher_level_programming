@@ -419,3 +419,31 @@ Write a JavaScript script that adds, removes and clears `LI` elements from a lis
 - You script must work when it imported from the `HEAD` tag
 
 Please test with this HTML file in your browser:
+```
+guillaume@ubuntu:~/0x15$ cat 101-main.html 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>ALX</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="101-script.js"></script>
+  </head>
+  <body>
+    <header> 
+      First HTML page
+    </header>
+    <br />
+    <div id="add_item">Add item</div>
+    <div id="remove_item">Remove item</div>
+    <div id="clear_list">Clear list</div>
+    <br />
+    <ul class="my_list">
+      <li>Item</li>
+    </ul>
+    <footer>
+      ALX - 2017
+    </footer>
+  </body>
+</html>
+guillaume@ubuntu:~/0x15$ 
+```
