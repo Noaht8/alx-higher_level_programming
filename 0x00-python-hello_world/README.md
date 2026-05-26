@@ -2,6 +2,19 @@
 
 ![Image link](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/231/48a9fdbd67c84a328a9df9ec8d93b9ac2458ac37721d7d53e51a27fb2bdc5263.jpg)
 
+## Concepts
+### For this project, we expect you to look at this concept:
+## Python programming
+- The Python Tutorial
+- Python Programming: An Introduction to Computer Science 3rd edition
+- Derek Banas’ Learn to program
+- The Python Guru
+- New string formatting
+- Garbage collector
+- Python Interpreter
+- Python bytecode
+
+
 ## Directory Contents
 ___
 
