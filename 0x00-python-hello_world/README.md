@@ -39,6 +39,9 @@ Enjoy!
 - [Learn to Program](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
 - [Pycodestyle – Style Guide for Python Code](https://pypi.org/project/pycodestyle/)
 
+## Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+
 
 ## Directory Contents
 ___
