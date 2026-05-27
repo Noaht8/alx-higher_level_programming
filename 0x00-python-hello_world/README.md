@@ -117,6 +117,10 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
+
+## Pycodestyle
+`Pycodestyle` is now the [new standard of Python style code](https://github.com/PyCQA/pycodestyle)
+
 ## Directory Contents
 ___
 
