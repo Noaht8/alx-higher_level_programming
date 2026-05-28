@@ -201,6 +201,11 @@ Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/5-p
     - followed by a new line
 - You are not allowed to use any loops or conditional statement
 - Your program should be maximum 5 lines long
+```
+guillaume@ubuntu:~/py/0x00$ ./5-print_string.py 
+ALX ALX ALX ALX
+guillaume@ubuntu:~/py/0x00$ 
+```
 ## [6-concat.py](6-concat.py)
 ## [7-edges.py](7-edges.py)
 ## [8-concat_edges.py](8-concat_edges.py)
