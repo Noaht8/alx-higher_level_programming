@@ -185,6 +185,11 @@ Complete the source code in order to print the float stored in the variable `num
     - followed by a new line
 - You are not allowed to cast `number` to string
 - You have to use f-strings
+```
+guillaume@ubuntu:~/py/0x00$ ./4-print_float.py
+Float: 3.14
+guillaume@ubuntu:~/py/0x00$ 
+```
 ## [5-print_string.py](5-print_string.py)
 ## [6-concat.py](6-concat.py)
 ## [7-edges.py](7-edges.py)
