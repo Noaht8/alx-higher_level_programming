@@ -246,7 +246,13 @@ Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/8-c
 - Your program should be exactly 5 lines long
 - You are not allowed to create new variables
 - You are not allowed to use string literals
-
+```
+guillaume@ubuntu:~/py/0x00$ ./8-concat_edges.py
+object-oriented programming with Python
+guillaume@ubuntu:~/py/0x00$ wc -l 8-concat_edges.py
+5 8-concat_edges.py
+guillaume@ubuntu:~/py/0x00$ 
+```
 ## [9-easter_egg.py](9-easter_egg.py)
 ## [10-check_cycle.c](10-check_cycle.c) [lists.h](lists.h)
 ## [100-write.py](100-write.py)
