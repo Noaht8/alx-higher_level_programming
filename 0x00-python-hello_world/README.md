@@ -207,6 +207,12 @@ ALX ALX ALX ALX
 guillaume@ubuntu:~/py/0x00$ 
 ```
 ## [6-concat.py](6-concat.py)
+Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/6-concat.py) to print `Welcome to ALX`
+
+- You can find the source code [here](https://github.com/alx-tools/0x00.py/blob/master/6-concat.py)
+- You are not allowed to use any loops or conditional statements.
+- You have to use the variables `str1` and `str2` in your new line of code
+- Your program should be exactly 5 lines long
 ## [7-edges.py](7-edges.py)
 ## [8-concat_edges.py](8-concat_edges.py)
 ## [9-easter_egg.py](9-easter_egg.py)
