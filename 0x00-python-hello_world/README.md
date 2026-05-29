@@ -229,6 +229,15 @@ Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/7-e
 - `word_first_3` should contain the first 3 letters of the variable `word`
 - `word_last_2` should contain the last 2 letters of the variable `word`
 - `middle_word` should contain the value of the variable `word` without the first and last letters
+```
+guillaume@ubuntu:~/py/0x00$ ./7-edges.py
+First 3 letters: Hol
+Last 2 letters: on
+Middle word: olberto
+guillaume@ubuntu:~/py/0x00$ wc -l 7-edges.py
+8 7-edges.py
+guillaume@ubuntu:~/py/0x00$ 
+```
 ## [8-concat_edges.py](8-concat_edges.py)
 ## [9-easter_egg.py](9-easter_egg.py)
 ## [10-check_cycle.c](10-check_cycle.c) [lists.h](lists.h)
