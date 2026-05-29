@@ -221,6 +221,14 @@ guillaume@ubuntu:~/py/0x00$ wc -l 6-concat.py
 guillaume@ubuntu:~/py/0x00$ 
 ```
 ## [7-edges.py](7-edges.py)
+Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/7-edges.py)
+
+- You can find the source code [here](https://github.com/alx-tools/0x00.py/blob/master/7-edges.py)
+- You are not allowed to use any loops or conditional statements
+- Your program should be exactly 8 lines long
+- `word_first_3` should contain the first 3 letters of the variable `word`
+- `word_last_2` should contain the last 2 letters of the variable `word`
+- `middle_word` should contain the value of the variable `word` without the first and last letters
 ## [8-concat_edges.py](8-concat_edges.py)
 ## [9-easter_egg.py](9-easter_egg.py)
 ## [10-check_cycle.c](10-check_cycle.c) [lists.h](lists.h)
