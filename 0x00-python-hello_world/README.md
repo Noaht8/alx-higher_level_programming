@@ -213,6 +213,13 @@ Complete this [source code](https://github.com/alx-tools/0x00.py/blob/master/6-c
 - You are not allowed to use any loops or conditional statements.
 - You have to use the variables `str1` and `str2` in your new line of code
 - Your program should be exactly 5 lines long
+```
+guillaume@ubuntu:~/py/0x00$ ./6-concat.py
+Welcome to ALX!
+guillaume@ubuntu:~/py/0x00$ wc -l 6-concat.py
+5 6-concat.py
+guillaume@ubuntu:~/py/0x00$ 
+```
 ## [7-edges.py](7-edges.py)
 ## [8-concat_edges.py](8-concat_edges.py)
 ## [9-easter_egg.py](9-easter_egg.py)
