@@ -515,5 +515,5 @@ guillaume@ubuntu:~/py/0x00$ od -t x1 main.pyc # SYSTEM DEPENDANT => CAN BE DIFFE
 guillaume@ubuntu:~/py/0x00$ 
 ```
 ## [102-magic_calculation.py](102-magic_calculation.py)
-
+Write the Python function `def magic_calculation(a, b):` that does exactly the same as the following Python bytecode:
 
