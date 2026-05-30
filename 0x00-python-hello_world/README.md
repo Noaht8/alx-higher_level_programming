@@ -449,6 +449,22 @@ int main(void)
 	return (0);
 }
 ```
+
+```
+carrie@ubuntu:~/0x00$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 10-main.c 10-check_cycle.c 10-linked_lists.c -o cycle
+carrie@ubuntu:~/0x00$$ ./cycle 
+1024
+402
+98
+4
+3
+2
+1
+0
+Linked list has no cycle
+Linked list has a cycle
+carrie@ubuntu:~/0x00$
+```
 ## [100-write.py](100-write.py)
 ## [101-compile](101-compile)
 ## [102-magic_calculation.py](102-magic_calculation.py)
