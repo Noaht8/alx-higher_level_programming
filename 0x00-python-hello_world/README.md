@@ -468,6 +468,12 @@ carrie@ubuntu:~/0x00$
 
 Solving a problem is already a big win! but finding the best and optimal way to solve it, it's way better! Think about the most optimal / fastest way to do it.
 ## [100-write.py](100-write.py)
+Write a Python script that prints exactly `and that piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line.
+
+- Use the function `write` from the `sys` module
+- You are not allowed to use `print`
+- Your script should print to `stderr`
+- Your script should exit with the status code `1`
 ## [101-compile](101-compile)
 ## [102-magic_calculation.py](102-magic_calculation.py)
 
