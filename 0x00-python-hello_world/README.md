@@ -282,7 +282,7 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 guillaume@ubuntu:~/py/0x00$
 ```
-## [10-check_cycle.c](10-check_cycle.c) [lists.h](lists.h)
+## [10-check_cycle.c](10-check_cycle.c) , [lists.h](lists.h)
 ## [100-write.py](100-write.py)
 ## [101-compile](101-compile)
 ## [102-magic_calculation.py](102-magic_calculation.py)
