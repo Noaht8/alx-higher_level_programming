@@ -465,6 +465,8 @@ Linked list has no cycle
 Linked list has a cycle
 carrie@ubuntu:~/0x00$
 ```
+
+Solving a problem is already a big win! but finding the best and optimal way to solve it, it's way better! Think about the most optimal / fastest way to do it.
 ## [100-write.py](100-write.py)
 ## [101-compile](101-compile)
 ## [102-magic_calculation.py](102-magic_calculation.py)
