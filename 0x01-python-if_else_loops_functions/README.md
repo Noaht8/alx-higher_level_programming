@@ -54,6 +54,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - All your files must be executable
 - The length of your files will be tested using `wc`
 
+## C Scripts
 ## Directory Contents
 ___
 
