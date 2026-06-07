@@ -168,3 +168,4 @@ Write a program that prints the ASCII alphabet, in lowercase, not followed by a 
 guillaume@ubuntu:~/0x01$ ./3-print_alphabt.py
 abcdfghijklmnoprstuvwxyzguillaume@ubuntu:~/0x01$
 ```
+## [4-print_hexa.py](4-print_hexa.py)
