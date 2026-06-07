@@ -169,3 +169,9 @@ guillaume@ubuntu:~/0x01$ ./3-print_alphabt.py
 abcdfghijklmnoprstuvwxyzguillaume@ubuntu:~/0x01$
 ```
 ## [4-print_hexa.py](4-print_hexa.py)
+Write a program that prints all numbers from `0` to `98` in decimal and in hexadecimal (as in the following example)
+
+- You can only use one `print` function with string format
+- You can only use one loop in your code
+- You are not allowed to store numbers or strings in a variable
+- You are not allowed to import any module
