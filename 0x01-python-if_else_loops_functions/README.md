@@ -236,3 +236,13 @@ guillaume@ubuntu:~/0x01$ ./6-print_comb3.py
 guillaume@ubuntu:~/0x01$ 
 ```
 ## [7-islower.py](7-islower.py)
+Write a function that checks for lowercase character.
+
+- Prototype: `def islower(c):`
+- Returns `True` if `c` is lowercase
+- Returns `False` otherwise
+- You are not allowed to import any module
+- You are not allowed to use `str.upper()` and `str.isupper()`
+- Tips: [ord()](https://docs.python.org/3.4/library/functions.html?highlight=ord#ord)
+
+You don't need to understand `__import__`
