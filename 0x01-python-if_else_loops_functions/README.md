@@ -290,3 +290,10 @@ BEST SCHOOL 98 BATTERY STREET
 guillaume@ubuntu:~/0x01$ 
 ```
 ## [9-print_last_digit.py](9-print_last_digit.py)
+Write a function that prints the last digit of a number.
+
+- Prototype: `def print_last_digit(number):`
+- Returns the value of the last digit
+- You are not allowed to import any module
+
+You don't need to understand `__import__`
