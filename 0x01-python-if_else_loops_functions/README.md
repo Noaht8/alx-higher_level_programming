@@ -265,3 +265,4 @@ A is upper
 g is lower
 guillaume@ubuntu:~/0x01$ 
 ```
+## [8-uppercase.py](8-uppercase.py)
