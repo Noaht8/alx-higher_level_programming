@@ -361,3 +361,4 @@ guillaume@ubuntu:~/0x01$ ./11-main.py
 -1024
 guillaume@ubuntu:~/0x01$ 
 ```
+## [12-fizzbuzz.py](12-fizzbuzz.py)
