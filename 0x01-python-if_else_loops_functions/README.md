@@ -535,3 +535,26 @@ int main(void)
 	return (0);
 }
 ```
+```
+carrie@ubuntu:0x01$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 13-main.c linked_lists.c 13-insert_number.c -o insert
+carrie@ubuntu:0x01$ ./insert
+0
+1
+2
+3
+4
+98
+402
+1024
+-----------------
+0
+1
+2
+3
+4
+27
+98
+402
+1024
+carrie@ubuntu:0x01$  
+```
