@@ -384,4 +384,12 @@ guillaume@ubuntu:~/0x01$ ./12-main.py | cat -e
 guillaume@ubuntu:~/0x01$ 
 ```
 ## [13-insert_number.c](13-insert_number.c), [lists.h](lists.h)
+**Technical interview preparation:**
 
+- You are not allowed to google anything
+- Whiteboard first
+
+Write a function in C that inserts a number into a sorted singly linked list.
+
+- Prototype: `listint_t *insert_node(listint_t **head, int number);`
+- Return: the address of the new node, or `NULL` if it failed
