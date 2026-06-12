@@ -565,3 +565,7 @@ Write a program that prints the ASCII alphabet, in reverse order, alternating lo
 - You can only use one loop in your code
 - You are not allowed to store characters in a variable
 - You are not allowed to import any module
+```
+guillaume@ubuntu:~/0x01$ ./100-print_tebahpla.py
+zYxWvUtSrQpOnMlKjIhGfEdCbAguillaume@ubuntu:~/0x01$
+```
