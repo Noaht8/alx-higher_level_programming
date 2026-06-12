@@ -559,3 +559,9 @@ carrie@ubuntu:0x01$ ./insert
 carrie@ubuntu:0x01$  
 ```
 ## [100-print_tebahpla.py](100-print_tebahpla.py)
+Write a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (`z` in lowercase and `Y` in uppercase) , not followed by a new line.
+
+- You can only use one `print` function with string format
+- You can only use one loop in your code
+- You are not allowed to store characters in a variable
+- You are not allowed to import any module
