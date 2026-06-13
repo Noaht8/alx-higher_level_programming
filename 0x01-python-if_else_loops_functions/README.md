@@ -569,3 +569,4 @@ Write a program that prints the ASCII alphabet, in reverse order, alternating lo
 guillaume@ubuntu:~/0x01$ ./100-print_tebahpla.py
 zYxWvUtSrQpOnMlKjIhGfEdCbAguillaume@ubuntu:~/0x01$
 ```
+## [101-remove_char_at.py](101-remove_char_at.py)
