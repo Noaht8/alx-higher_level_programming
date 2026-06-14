@@ -596,3 +596,4 @@ Python
 guillaume@ubuntu:~/0x01$ 
 ```
 ## [102-magic_calculation.py](102-magic_calculation.py)
+Write the Python function `def magic_calculation(a, b, c):` that does exactly the same as the following Python bytecode:
