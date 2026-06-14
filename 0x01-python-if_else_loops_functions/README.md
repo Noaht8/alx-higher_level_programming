@@ -595,3 +595,4 @@ School
 Python
 guillaume@ubuntu:~/0x01$ 
 ```
+## [102-magic_calculation.py](102-magic_calculation.py)
