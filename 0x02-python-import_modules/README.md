@@ -1,7 +1,13 @@
 # 0x02. Python - import & modules
 
-![Image link](https://mw.home.amu.edu.pl/zajecia/PPR2017/modules.jpg)
+![Image link](modules.jpg)
 
+## Resources
+### Read or watch:
+
+- Modules
+- Command line arguments
+- Pycodestyle -- Style Guide for Python Code
 
 ## Directory Contents
 ___
