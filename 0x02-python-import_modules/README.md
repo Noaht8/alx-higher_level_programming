@@ -156,3 +156,4 @@ guillaume@ubuntu:~/0x02$ ./1-calculation.py
 10 / 5 = 2
 guillaume@ubuntu:~/0x02$
 ```
+## [2-args.py](2-args.py)
