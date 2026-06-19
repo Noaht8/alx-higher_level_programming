@@ -206,3 +206,5 @@ guillaume@ubuntu:~/0x02$ ./3-infinite_add.py 11111111111111111111111111111111111
 guillaume@ubuntu:~/0x02$
 ```
 Remember how you did (or did not) do it in C? `#pythoniscool`
+
+## [4-hidden_discovery.py](4-hidden_discovery.py)
