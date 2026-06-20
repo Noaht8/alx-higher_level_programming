@@ -238,3 +238,4 @@ guillaume@ubuntu:~/0x02$ ./5-variable_load.py
 98
 guillaume@ubuntu:~/0x02$
 ```
+## [100-my_calculator.py](100-my_calculator.py)
