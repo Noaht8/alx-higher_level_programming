@@ -323,3 +323,4 @@ Unknown operator. Available operators: +, -, * and /
 1
 guillaume@ubuntu:~/0x02$
 ```
+## [101-easy_print.py](101-easy_print.py)
