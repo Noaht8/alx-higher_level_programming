@@ -239,3 +239,14 @@ guillaume@ubuntu:~/0x02$ ./5-variable_load.py
 guillaume@ubuntu:~/0x02$
 ```
 ## [100-my_calculator.py](100-my_calculator.py)
+Write a program that imports all functions from the file `calculator_1.py` and handles basic operations.
+
+- Usage: `./100-my_calculator.py a operator b`
+  - If the number of arguments is not 3, your program has to:
+    - print `Usage: ./100-my_calculator.py <a> <operator> <b>` followed with a new line
+    - exit with the value `1`
+  - `operator` can be:
+    - `+` for addition
+    - `-` for subtraction
+    - `*` for multiplication
+    - `/` for division
