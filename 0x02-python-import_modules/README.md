@@ -333,3 +333,4 @@ guillaume@ubuntu:~/0x02$ ./101-easy_print.py
 #pythoniscool
 guillaume@ubuntu:~/0x02$ 
 ```
+## [102-magic_calculation.py](102-magic_calculation.py)
