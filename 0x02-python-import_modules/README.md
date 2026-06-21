@@ -385,3 +385,5 @@ Write the Python function `def magic_calculation(a, b):` that does exactly the s
             110 RETURN_VALUE
 ```
 - Tip: [Python bytecode](https://docs.python.org/3/library/dis.html)
+
+## [103-fast_alphabet.py](103-fast_alphabet.py)
