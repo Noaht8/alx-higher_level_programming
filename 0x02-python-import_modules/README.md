@@ -334,3 +334,4 @@ guillaume@ubuntu:~/0x02$ ./101-easy_print.py
 guillaume@ubuntu:~/0x02$ 
 ```
 ## [102-magic_calculation.py](102-magic_calculation.py)
+Write the Python function `def magic_calculation(a, b):` that does exactly the same as the following Python bytecode:
