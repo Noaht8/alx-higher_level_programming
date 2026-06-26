@@ -151,3 +151,4 @@ guillaume@ubuntu:~/0x03$ ./3-main.py
 1
 guillaume@ubuntu:~/0x03$ 
 ```
+## [4-new_in_list.py](4-new_in_list.py)
