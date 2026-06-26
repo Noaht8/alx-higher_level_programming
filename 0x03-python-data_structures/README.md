@@ -199,3 +199,4 @@ hiago
  is fun!
 guillaume@ubuntu:~/0x03$ 
 ```
+## [6-print_matrix_integer.py](6-print_matrix_integer.py)
