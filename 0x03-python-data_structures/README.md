@@ -261,3 +261,4 @@ guillaume@ubuntu:~/0x03$ ./7-main.py
 (1, 89)
 guillaume@ubuntu:~/0x03$ 
 ```
+## [8-multiple_returns.py](8-multiple_returns.py)
