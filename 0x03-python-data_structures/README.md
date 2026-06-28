@@ -242,3 +242,22 @@ Write a function that adds 2 tuples.
 - You can assume that the two tuples will only contain integers
 - If a tuple is smaller than 2, use the value 0 for each missing integer
 - If a tuple is bigger than 2, use only the first 2 integers
+```
+guillaume@ubuntu:~/0x03$ cat 7-main.py
+#!/usr/bin/python3
+add_tuple = __import__('7-add_tuple').add_tuple
+
+tuple_a = (1, 89)
+tuple_b = (88, 11)
+new_tuple = add_tuple(tuple_a, tuple_b)
+print(new_tuple)
+
+print(add_tuple(tuple_a, (1, )))
+print(add_tuple(tuple_a, ()))
+
+guillaume@ubuntu:~/0x03$ ./7-main.py
+(89, 100)
+(2, 89)
+(1, 89)
+guillaume@ubuntu:~/0x03$ 
+```
