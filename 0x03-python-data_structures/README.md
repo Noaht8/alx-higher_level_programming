@@ -288,3 +288,16 @@ Write a function that finds the biggest integer of a list.
 - You can assume that the list only contains integers
 - You are not allowed to import any module
 - You are not allowed to use the builtin `max()`
+```
+guillaume@ubuntu:~/0x03$ cat 9-main.py
+#!/usr/bin/python3
+max_integer = __import__('9-max_integer').max_integer
+
+my_list = [1, 90, 2, 13, 34, 5, -13, 3]
+max_value = max_integer(my_list)
+print("Max: {}".format(max_value))
+
+guillaume@ubuntu:~/0x03$ ./9-main.py
+Max: 90
+guillaume@ubuntu:~/0x03$ 
+```
