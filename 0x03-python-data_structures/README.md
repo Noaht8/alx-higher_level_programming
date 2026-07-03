@@ -367,3 +367,4 @@ guillaume@ubuntu:~/py/0x03$ wc -l 12-switch.py
 5 12-switch.py
 guillaume@ubuntu:~/py/0x03$ 
 ```
+## [13-is_palindrome.c](13-is_palindrome.c), [lists.h](lists.h)
