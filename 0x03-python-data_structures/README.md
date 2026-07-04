@@ -540,3 +540,8 @@ Linked list is a palindrome
 carrie@ubuntu:0x03$
 ```
 ## [100-print_python_list_info.c](100-print_python_list_info.c)
+CPython is the reference implementation of the Python programming language. Written in C, CPython is the default and most widely used implementation of the language.
+
+Since we now know a bit of C, we can look at what is happening under the hood of Python. Let's have fun with Python and C, and let's look at what makes Python so easy to use.
+
+- All your files will be interpreted/compiled on Ubuntu 14.04 LTS
