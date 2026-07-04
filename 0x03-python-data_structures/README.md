@@ -539,3 +539,4 @@ carrie@ubuntu:0x03$ ./palindrome
 Linked list is a palindrome
 carrie@ubuntu:0x03$
 ```
+## [100-print_python_list_info.c](100-print_python_list_info.c)
