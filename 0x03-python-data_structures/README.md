@@ -545,3 +545,16 @@ CPython is the reference implementation of the Python programming language. Writ
 Since we now know a bit of C, we can look at what is happening under the hood of Python. Let's have fun with Python and C, and let's look at what makes Python so easy to use.
 
 - All your files will be interpreted/compiled on Ubuntu 14.04 LTS
+
+Create a C function that prints some basic info about Python lists.
+
+- Prototype: `void print_python_list_info(PyObject *p);`
+- Format: see example
+- Python version: 3.4
+- Your shared library will be compiled with this command line: `gcc -Wall -Werror -Wextra -pedantic -std=c99 -shared -Wl,-soname,PyList -o libPyList.so -fPIC -I/usr/include/python3.4 100-print_python_list_info.c`
+- OS: `Ubuntu 14.04 LTS`
+- Start by reading:
+	- listobject.h
+	- object.h
+	- [Common Object Structures](https://docs.python.org/3/c-api/structures.html)
+	- [List Objects](https://docs.python.org/3/c-api/list.html)
