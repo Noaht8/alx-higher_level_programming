@@ -8,3 +8,9 @@ ___
 
 This directory contains the following files:
 
+## Resources
+### Read or watch:
+
+- Data structures
+- Lambda, filter, reduce and map
+- Learn to Program 12 Lambda Map Filter Reduce
