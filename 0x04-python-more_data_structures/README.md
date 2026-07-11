@@ -3,10 +3,6 @@
 ![Image link](https://qph.cf2.quoracdn.net/main-qimg-a4b9e6959aceb73fc326ad5df93867b5-lq)
 
 
-## Directory Contents
-___
-
-This directory contains the following files:
 
 ## Resources
 ### Read or watch:
@@ -50,3 +46,8 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - Your code should use the pycodestyle (version `2.8.*`)
 - All your files must be executable
 - The length of your files will be tested using `wc`
+
+## Directory Contents
+___
+
+This directory contains the following files:
