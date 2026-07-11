@@ -51,3 +51,4 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ___
 
 This directory contains the following files:
+## [0-square_matrix_simple.py](0-square_matrix_simple.py)
