@@ -124,3 +124,4 @@ guillaume@ubuntu:~/0x04$ ./2-main.py
 Result: 15
 guillaume@ubuntu:~/0x04$ 
 ```
+## [3-common_elements.py](3-common_elements.py)
