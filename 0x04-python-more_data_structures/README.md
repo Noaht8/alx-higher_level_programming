@@ -180,3 +180,4 @@ guillaume@ubuntu:~/0x04$ ./5-main.py
 Number of keys: 3
 guillaume@ubuntu:~/0x04$ 
 ```
+## [6-print_sorted_dictionary.py](6-print_sorted_dictionary.py)
