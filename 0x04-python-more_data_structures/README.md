@@ -254,3 +254,4 @@ number: 89
 track: Low level
 guillaume@ubuntu:~/0x04$ 
 ```
+## [8-simple_delete.py](8-simple_delete.py)
