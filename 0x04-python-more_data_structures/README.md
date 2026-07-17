@@ -335,3 +335,10 @@ Molly: 32
 guillaume@ubuntu:~/0x04$ 
 ```
 ## [10-best_score.py](10-best_score.py)
+Write a function that returns a key with the biggest integer value.
+
+- Prototype: `def best_score(a_dictionary):`
+- You can assume that all values are only integers
+- If no score found, return `None`
+- You can assume all students have a different score
+- You are not allowed to import any module
