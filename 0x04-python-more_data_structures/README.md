@@ -386,3 +386,12 @@ guillaume@ubuntu:~/0x04$ ./11-main.py
 guillaume@ubuntu:~/0x04$ 
 ```
 ## [12-roman_to_int.py](12-roman_to_int.py)
+**Technical interview preparation:**
+
+- You are not allowed to google anything
+- Whiteboard first
+Create a function `def roman_to_int(roman_string):` that converts a [Roman numeral](https://en.wikipedia.org/wiki/Roman_numerals) to an integer.
+
+- You can assume the number will be between 1 to 3999.
+- `def roman_to_int(roman_string)` must return an integer
+- If the `roman_string` is not a string or `None`, return 0
