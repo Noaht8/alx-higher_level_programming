@@ -426,3 +426,4 @@ LXXXVII = 87
 DCCVII = 707
 guillaume@ubuntu:~/0x04$ 
 ```
+## [100-weight_average.py](100-weight_average.py)
