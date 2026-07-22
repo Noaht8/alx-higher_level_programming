@@ -34,5 +34,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## Directory Contents
 ___
 
-This directory contains the following files:
+### This directory contains the following files:
+
+## [0-safe_print_list.py](0-safe_print_list.py)
 
