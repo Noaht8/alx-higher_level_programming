@@ -71,3 +71,4 @@ nb_print: 5
 nb_print: 5
 guillaume@ubuntu:~/0x05$ 
 ```
+## [1-safe_print_integer.py](1-safe_print_integer.py)
