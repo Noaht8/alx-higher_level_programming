@@ -109,3 +109,4 @@ guillaume@ubuntu:~/0x05$ ./1-main.py
 School is not an integer
 guillaume@ubuntu:~/0x05$ 
 ```
+## [2-safe_print_list_integers.py](2-safe_print_list_integers.py)
