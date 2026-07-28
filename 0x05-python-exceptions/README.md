@@ -153,3 +153,4 @@ nb_print: 5
 IndexError: list index out of range
 guillaume@ubuntu:~/0x05$ 
 ```
+## [3-safe_print_division.py](3-safe_print_division.py)
