@@ -228,3 +228,7 @@ out of range
 guillaume@ubuntu:~/0x05$ 
 ```
 ## [5-raise_exception.py](5-raise_exception.py)
+Write a function that raises a type exception.
+
+- Prototype: `def raise_exception():`
+- You are not allowed to import any module
