@@ -227,3 +227,4 @@ out of range
 [5.0, 0, 0, 2.0, 0]
 guillaume@ubuntu:~/0x05$ 
 ```
+## [5-raise_exception.py](5-raise_exception.py)
