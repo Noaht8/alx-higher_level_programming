@@ -246,3 +246,4 @@ guillaume@ubuntu:~/0x05$ ./5-main.py
 Exception raised
 guillaume@ubuntu:~/0x05$ 
 ```
+## [6-raise_exception_msg.py](6-raise_exception_msg.py)
