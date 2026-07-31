@@ -265,3 +265,4 @@ guillaume@ubuntu:~/0x05$ ./6-main.py
 C is fun
 guillaume@ubuntu:~/0x05$ 
 ```
+## [100-safe_print_integer_err.py](100-safe_print_integer_err.py)
