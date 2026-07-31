@@ -308,3 +308,4 @@ guillaume@ubuntu:~/0x05$ ./100-main.py 2> /dev/null
 School is not an integer
 guillaume@ubuntu:~/0x05$ 
 ```
+## [101-safe_function.py](101-safe_function.py)
