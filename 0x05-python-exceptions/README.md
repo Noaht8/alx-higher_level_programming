@@ -363,3 +363,4 @@ result of print_list: None
 guillaume@ubuntu:~/0x05$ 
 ```
 ## [102-magic_calculation.py](102-magic_calculation.py)
+Write the Python function `def magic_calculation(a, b):` that does exactly the same as the following Python bytecode:
