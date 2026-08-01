@@ -420,3 +420,4 @@ Write the Python function `def magic_calculation(a, b):` that does exactly the s
  13     >>  103 LOAD_FAST                2 (result)
             106 RETURN_VALUE
 ```
+- Tip: [Python bytecode](https://docs.python.org/3/library/dis.html)
