@@ -362,3 +362,4 @@ result of my_div: None
 result of print_list: None
 guillaume@ubuntu:~/0x05$ 
 ```
+## [102-magic_calculation.py](102-magic_calculation.py)
