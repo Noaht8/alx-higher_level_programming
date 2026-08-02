@@ -423,3 +423,25 @@ Write the Python function `def magic_calculation(a, b):` that does exactly the s
 - Tip: [Python bytecode](https://docs.python.org/3/library/dis.html)
 
 ## [103-python.c](103-python.c)
+Create three C functions that print some basic info about Python lists, Python bytes an Python float objects.
+
+
+Python lists:
+
+- Prototype: `void print_python_list(PyObject *p);`
+- Format: see example
+- If `p` is not a valid `PyListObject`, print an error message (see example)
+
+Python bytes:
+
+- Prototype: `void print_python_bytes(PyObject *p);`
+- Format: see example
+- Line "first X bytes": print a maximum of 10 bytes
+- If `p` is not a valid `PyBytesObject`, print an error message (see example)
+
+Python float:
+
+- Prototype: `void print_python_float(PyObject *p);`
+- Format: see example
+- If `p` is not a valid `PyFloatObject`, print an error message (see example)
+- Read `/usr/include/python3.4/floatobject.h`
