@@ -21,5 +21,8 @@ Read or watch the below resources in the order presented.
 - [Python Classes and Objects](https://www.youtube.com/watch?v=apACNr7DC_s)
 - [Object Oriented Programming](https://www.youtube.com/watch?v=-DP1i2ZU9gk)
 
+## Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
+
 ## Directory Contents
 ___
