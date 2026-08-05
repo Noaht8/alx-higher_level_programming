@@ -60,5 +60,9 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - All your classes should have a documentation (`python3 -c 'print(__import__("my_module").MyClass.__doc__)'` )
 - All your functions (inside and outside a class) should have a documentation (`python3 -c 'print(__import__("my_module").my_function.__doc__)'` and `python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)'` )
 - A documentation is not a simple word, it's a real sentence explaining what's the purpose of the module, class or method (the length of it will be verified)
+
+## More Info
+**Documentation is now mandatory!** Each module, class, and method must contain docstring as comments. [Example Google Style Python Docstrings](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
+
 ## Directory Contents
 ___
