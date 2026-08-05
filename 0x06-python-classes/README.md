@@ -67,3 +67,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## Directory Contents
 ___
 ## [0-square.py](0-square.py)
+Write an empty class `Square` that defines a square:
+
+- You are not allowed to import any module
