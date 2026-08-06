@@ -84,3 +84,4 @@ guillaume@ubuntu:~/0x06$ ./0-main.py
 {}
 guillaume@ubuntu:~/0x06$ 
 ```
+## [1-square.py](1-square.py)
