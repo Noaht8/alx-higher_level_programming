@@ -124,3 +124,4 @@ guillaume@ubuntu:~/0x06$ ./1-main.py
 'Square' object has no attribute '__size'
 guillaume@ubuntu:~/0x06$ 
 ```
+## [2-square.py](2-square.py)
