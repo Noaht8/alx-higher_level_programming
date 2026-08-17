@@ -217,3 +217,4 @@ Area: 9
 Area: 25
 guillaume@ubuntu:~/0x06$ 
 ```
+## [4-square.py](4-square.py)
