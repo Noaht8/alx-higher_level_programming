@@ -315,3 +315,4 @@ guillaume@ubuntu:~/0x06$ ./5-main.py
 --
 guillaume@ubuntu:~/0x06$ 
 ```
+## [6-square.py](6-square.py)
