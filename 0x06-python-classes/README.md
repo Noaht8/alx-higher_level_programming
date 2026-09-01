@@ -393,3 +393,36 @@ And, write a class `SinglyLinkedList` that defines a singly linked list by:
     - one node number by line
 - Public instance method: `def sorted_insert(self, value):` that inserts a new `Node` into the correct sorted position in the list (increasing order)
 - You are not allowed to import any module
+```
+guillaume@ubuntu:~/0x06$ cat 100-main.py
+#!/usr/bin/python3
+SinglyLinkedList = __import__('100-singly_linked_list').SinglyLinkedList
+
+sll = SinglyLinkedList()
+sll.sorted_insert(2)
+sll.sorted_insert(5)
+sll.sorted_insert(3)
+sll.sorted_insert(10)
+sll.sorted_insert(1)
+sll.sorted_insert(-4)
+sll.sorted_insert(-3)
+sll.sorted_insert(4)
+sll.sorted_insert(5)
+sll.sorted_insert(12)
+sll.sorted_insert(3)
+print(sll)
+
+guillaume@ubuntu:~/0x06$ ./100-main.py
+-4
+-3
+1
+2
+3
+3
+4
+5
+5
+10
+12
+guillaume@ubuntu:~/0x06$ 
+```
