@@ -426,3 +426,4 @@ guillaume@ubuntu:~/0x06$ ./100-main.py
 12
 guillaume@ubuntu:~/0x06$ 
 ```
+## [101-square.py](101-square.py)
