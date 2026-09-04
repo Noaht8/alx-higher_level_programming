@@ -485,3 +485,30 @@ Write a class `Square` that defines a square by: (based on `4-square.py`)
 - Public instance method: `def area(self):` that returns the current square area
 - `Square` instance can answer to comparators: `==`, `!=`, `>`, `>=`, `<` and `<=` based on the square area
 - You are not allowed to import any module
+```
+guillaume@ubuntu:~/0x06$ cat 102-main.py
+#!/usr/bin/python3
+Square = __import__('102-square').Square
+
+s_5 = Square(5)
+s_6 = Square(6)
+
+if s_5 < s_6:
+    print("Square 5 < Square 6")
+if s_5 <= s_6:
+    print("Square 5 <= Square 6")
+if s_5 == s_6:
+    print("Square 5 == Square 6")
+if s_5 != s_6:
+    print("Square 5 != Square 6")
+if s_5 > s_6:
+    print("Square 5 > Square 6")
+if s_5 >= s_6:
+    print("Square 5 >= Square 6")
+
+guillaume@ubuntu:~/0x06$ ./102-main.py
+Square 5 < Square 6
+Square 5 <= Square 6
+Square 5 != Square 6
+guillaume@ubuntu:~/0x06$ 
+```
