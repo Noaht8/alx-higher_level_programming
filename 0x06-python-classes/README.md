@@ -473,3 +473,4 @@ ____#####$
 ____#####$
 guillaume@ubuntu:~/0x06$ 
 ```
+## [102-square.py](102-square.py)
