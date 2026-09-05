@@ -512,3 +512,4 @@ Square 5 <= Square 6
 Square 5 != Square 6
 guillaume@ubuntu:~/0x06$ 
 ```
+## [103-magic_class.py](103-magic_class.py)
