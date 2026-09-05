@@ -513,3 +513,4 @@ Square 5 != Square 6
 guillaume@ubuntu:~/0x06$ 
 ```
 ## [103-magic_class.py](103-magic_class.py)
+Write the Python class `MagicClass` that does exactly the same as the following Python bytecode:
