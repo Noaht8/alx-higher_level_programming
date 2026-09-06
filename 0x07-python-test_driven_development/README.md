@@ -8,3 +8,6 @@
 - [Unit Tests in Python](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
 - [Unittest module](https://www.youtube.com/watch?v=6tNS--WetLI)
 - [Interactive and Non-interactive tests](https://mattermost.com/blog/testing-python-understanding-doctest-and-unittest/)
+
+## Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
