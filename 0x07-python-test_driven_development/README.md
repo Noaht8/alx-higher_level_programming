@@ -44,3 +44,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - We strongly encourage you to work together on test cases, so that you don't miss any edge case -- The Checker is checking for tests!
 
 ## Directory Contents
+
+## [0-add_integer.py](0-add_integer.py)
