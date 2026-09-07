@@ -45,4 +45,5 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Directory Contents
 
-## [0-add_integer.py](0-add_integer.py)
+## [0-add_integer.py](0-add_integer.py) [tests/0-add_integer.txt](tests/0-add_integer.txt)
+
