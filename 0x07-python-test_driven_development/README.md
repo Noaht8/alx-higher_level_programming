@@ -87,4 +87,5 @@ guillaume@ubuntu:~/0x07$ python3 -c 'print(__import__("0-add_integer").add_integ
 3
 guillaume@ubuntu:~/0x07$ 
 ```
-## [2-matrix_divided.py](2-matrix_divided.py), 
+## [2-matrix_divided.py](2-matrix_divided.py), [tests/2-matrix_divided.txt](tests/2-matrix_divided.txt)
+
