@@ -118,6 +118,7 @@ guillaume@ubuntu:~/0x07$ python3 -m doctest -v ./tests/2-matrix_divided.txt | ta
 Test passed.
 guillaume@ubuntu:~/0x07$ 
 ```
+Note: you might have a different number of tests than in the above example. As usual, your tests should cover all possible cases.
 ## [3-say_my_name.py](3-say_my_name.py), [tests/3-say_my_name.txt](tests/3-say_my_name.txt)
 Write a function that prints `My name is <first name> <last name>`
 
@@ -147,3 +148,4 @@ guillaume@ubuntu:~/0x07$ python3 -m doctest -v ./tests/3-say_my_name.txt | tail 
 Test passed.
 guillaume@ubuntu:~/0x07$ 
 ```
+Note: you might have a different number of tests than in the above example. As usual, your tests should cover all possible cases.
