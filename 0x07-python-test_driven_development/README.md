@@ -118,4 +118,5 @@ guillaume@ubuntu:~/0x07$ python3 -m doctest -v ./tests/2-matrix_divided.txt | ta
 Test passed.
 guillaume@ubuntu:~/0x07$ 
 ```
-## [3-say_my_name.py](3-say_my_name.py), 
+## [3-say_my_name.py](3-say_my_name.py), [tests/3-say_my_name.txt](tests/3-say_my_name.txt)
+
