@@ -204,4 +204,9 @@ guillaume@ubuntu:~/0x07$ python3 -m doctest -v ./tests/4-print_square.txt
 guillaume@ubuntu:~/0x07$ 
 ```
 ## [5-text_indentation.py](5-text_indentation.py), [tests/5-text_indentation.txt](tests/5-text_indentation.txt)
+Write a function that prints a text with 2 new lines after each of these characters: `.`, `?` and `:`
 
+- Prototype: `def text_indentation(text):`
+- `text` must be a string, otherwise raise a `TypeError` exception with the message `text must be a string`
+- There should be no space at the beginning or at the end of each printed line
+- You are not allowed to import any module
