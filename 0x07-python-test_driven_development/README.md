@@ -256,3 +256,4 @@ Utinam quidem dicerent alium alio beatiorem! Iam ruinas videresguillaume@ubuntu:
 guillaume@ubuntu:~/0x07$ python3 -m doctest -v ./tests/5-text_indentation.txt
 guillaume@ubuntu:~/0x07$ 
 ```
+## [tests/6-max_integer_test.py](tests/6-max_integer_test.py)
