@@ -315,4 +315,12 @@ class TestMaxInteger(unittest.TestCase):
 guillaume@ubuntu:~/0x07$ 
 ```
 ## [100-matrix_mul.py](100-matrix_mul.py), [tests/100-matrix_mul.txt](tests/100-matrix_mul.txt)
+Write a function that multiplies 2 matrices:
 
+- Read: [Matrix multiplication - only Matrix product (two matrices)](https://en.wikipedia.org/wiki/Matrix_multiplication)
+
+-Prototype: `def matrix_mul(m_a, m_b):`
+
+- `m_a` and `m_b` must be validated with these requirements in this order
+
+- `m_a` and `m_b` must be an list of lists of integers or floats:
