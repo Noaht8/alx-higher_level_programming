@@ -319,7 +319,7 @@ Write a function that multiplies 2 matrices:
 
 - Read: [Matrix multiplication - only Matrix product (two matrices)](https://en.wikipedia.org/wiki/Matrix_multiplication)
 
--Prototype: `def matrix_mul(m_a, m_b):`
+- Prototype: `def matrix_mul(m_a, m_b):`
 
 - `m_a` and `m_b` must be validated with these requirements in this order
 
@@ -333,3 +333,19 @@ Write a function that multiplies 2 matrices:
 - If `m_a` and `m_b` can't be multiplied: raise a `ValueError` exception with the message `m_a and m_b can't be multiplied`
 
 - You are not allowed to import any module
+```
+guillaume@ubuntu:~/0x07$ cat 100-main.py
+#!/usr/bin/python3
+matrix_mul = __import__('100-matrix_mul').matrix_mul
+
+print(matrix_mul([[1, 2], [3, 4]], [[1, 2], [3, 4]]))
+print(matrix_mul([[1, 2]], [[3, 4], [5, 6]]))
+
+guillaume@ubuntu:~/0x07$ ./100-main.py 
+[[7, 10], [15, 22]]
+[[13, 16]]
+guillaume@ubuntu:~/0x07$ python3 -m doctest -v ./tests/100-matrix_mul.txt | tail -2
+6 passed and 0 failed.
+Test passed.
+guillaume@ubuntu:~/0x07$ 
+```
