@@ -349,4 +349,5 @@ guillaume@ubuntu:~/0x07$ python3 -m doctest -v ./tests/100-matrix_mul.txt | tail
 Test passed.
 guillaume@ubuntu:~/0x07$ 
 ```
-## [101-lazy_matrix_mul.py](101-lazy_matrix_mul.py), 
+## [101-lazy_matrix_mul.py](101-lazy_matrix_mul.py), [tests/101-lazy_matrix_mul.txt](tests/101-lazy_matrix_mul.txt)
+
