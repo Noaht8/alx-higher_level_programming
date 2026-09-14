@@ -350,4 +350,9 @@ Test passed.
 guillaume@ubuntu:~/0x07$ 
 ```
 ## [101-lazy_matrix_mul.py](101-lazy_matrix_mul.py), [tests/101-lazy_matrix_mul.txt](tests/101-lazy_matrix_mul.txt)
+Write a function that multiplies 2 matrices by using the module [NumPy](https://numpy.org/)
 
+To install it: `pip3 install numpy==1.15.0`
+
+- Prototype: `def lazy_matrix_mul(m_a, m_b):`
+- Test cases should be the same as `100-matrix_mul` but with new exception type/message
