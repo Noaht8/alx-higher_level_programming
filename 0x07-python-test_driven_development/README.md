@@ -371,3 +371,4 @@ guillaume@ubuntu:~/0x07$ ./101-main.py
 guillaume@ubuntu:~/0x07$ python3 -m doctest -v ./tests/101-lazy_matrix_mul.txt 
 guillaume@ubuntu:~/0x07$ 
 ```
+## [102-python.c](102-python.c)
