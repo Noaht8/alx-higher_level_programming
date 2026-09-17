@@ -50,3 +50,5 @@
 - The length of your files will be tested using `wc`
 
 ## Directory Contents
+
+## [0-rectangle.py](0-rectangle.py)
