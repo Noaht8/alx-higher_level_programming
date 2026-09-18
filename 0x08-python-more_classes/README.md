@@ -69,3 +69,4 @@ guillaume@ubuntu:~/0x08$ ./0-main.py
 {}
 guillaume@ubuntu:~/0x08$ 
 ```
+## [1-rectangle.py](1-rectangle.py)
