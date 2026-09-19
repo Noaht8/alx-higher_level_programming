@@ -101,3 +101,4 @@ guillaume@ubuntu:~/0x08$ ./1-main.py
 {'_Rectangle__height': 3, '_Rectangle__width': 10}
 guillaume@ubuntu:~/0x08$ 
 ```
+## [2-rectangle.py](2-rectangle.py)
