@@ -139,3 +139,4 @@ Area: 8 - Perimeter: 12
 Area: 30 - Perimeter: 26
 guillaume@ubuntu:~/0x08$ 
 ```
+## [3-rectangle.py](3-rectangle.py)
